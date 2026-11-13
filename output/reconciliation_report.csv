@@ -1,0 +1,3 @@
+entity,original_records,valid_records,rejected_records,master_records,merged_away_records,input_reconciliation,master_reconciliation,overall_status
+Customer,2000,2000,0,1788,212,True,True,PASSED
+Product,2000,2000,0,1789,211,True,True,PASSED

@@ -1,0 +1,412 @@
+product_id,product_name,category,brand,price,updated_at,source,rejection_reason,normalized_product_name,normalized_brand,normalized_category,duplicate_count,duplicate_group_id
+P00010,Galaxy S24 Ultra Model 10,Mobile,Samsung,94739,2026-05-21,Mobile App,,galaxy s24 ultra model 10,samsung,mobile,3,PROD_0077
+P00014,Galaxy S24 Model 14,Mobile,Samsung,70065,2025-07-18,Website,,galaxy s24 model 14,samsung,mobile,2,PROD_0065
+P00027,Canon Camera Model 27,Camera,Canon,45327,2025-01-26,Website,,canon camera model 27,canon,camera,2,PROD_0028
+P00040,iPhone 15 Model 40,Mobile,Apple,65441,2026-03-29,CRM,,iphone 15 model 40,apple,mobile,3,PROD_0137
+P00045,Canon Camera Model 45,Camera,Canon,45306,2026-11-07,CRM,,canon camera model 45,canon,camera,2,PROD_0030
+P00048,iPhone 15 Model 48,Mobile,Apple,64964,2026-06-14,Mobile App,,iphone 15 model 48,apple,mobile,2,PROD_0139
+P00051,Canon Camera Model 51,Camera,Canon,44629,2026-10-15,Mobile App,,canon camera model 51,canon,camera,2,PROD_0032
+P00052,HP Pavilion Model 52,Laptop,HP,59931,2026-05-08,ERP,,hp pavilion model 52,hp,laptop,2,PROD_0120
+P00061,Galaxy S24 Ultra Model 61,Mobile,Samsung,95304,2025-03-12,Mobile App,,galaxy s24 ultra model 61,samsung,mobile,2,PROD_0096
+P00064,Canon Camera Model 64,Camera,Canon,44806,2026-03-05,Mobile App,,canon camera model 64,canon,camera,2,PROD_0033
+P00090,Canon Camera Model 90,Camera,Canon,44566,2025-06-21,ERP,,canon camera model 90,canon,camera,2,PROD_0039
+P00093,Sony Headphones Model 93,Audio,Sony,11985,2025-10-02,ERP,,sony headphones model 93,sony,audio,2,PROD_0198
+P00105,Sony Headphones Model 105,Audio,Sony,11739,2025-09-29,CRM,,sony headphones model 105,sony,audio,2,PROD_0178
+P00109,iPhone 15 Pro Model 109,Mobile,Apple,84573,2026-01-04,CRM,,iphone 15 pro model 109,apple,mobile,2,PROD_0147
+P00127,Galaxy S24 Model 127,Mobile,Samsung,69657,2025-12-05,ERP,,galaxy s24 model 127,samsung,mobile,2,PROD_0061
+P00131,Dell Inspiron 15 Model 131,Laptop,Dell,54595,2025-06-25,CRM,,dell inspiron 15 model 131,dell,laptop,2,PROD_0046
+P00138,Galaxy S24 Model 138,Mobile,Samsung,69613,2025-05-13,ERP,,galaxy s24 model 138,samsung,mobile,2,PROD_0064
+P00143,Canon Camera Model 143,Camera,Canon,44707,2026-05-30,ERP,,canon camera model 143,canon,camera,2,PROD_0024
+P00150,Canon Camera Model 150,Camera,Canon,45343,2025-06-29,ERP,,canon camera model 150,canon,camera,2,PROD_0027
+P00155,Boat Earbuds Model 155,Audio,Boat,2298,2025-03-10,Website,,boat earbuds model 155,boat,audio,2,PROD_0010
+P00164,Sony Headphones Model 164,Audio,Sony,11996,2026-04-18,CRM,,sony headphones model 164,sony,audio,2,PROD_0188
+P00167,Galaxy S24 Model 167,Mobile,Samsung,69674,2025-01-19,CRM,,galaxy s24 model 167,samsung,mobile,2,PROD_0068
+P00171,Galaxy S24 Ultra Model 171,Mobile,Samsung,95231,2025-02-05,Website,,galaxy s24 ultra model 171,samsung,mobile,2,PROD_0086
+P00183,Lenovo ThinkPad Model 183,Laptop,Lenovo,74623,2025-08-26,Website,,lenovo thinkpad model 183,lenovo,laptop,2,PROD_0169
+P00189,Galaxy S24 Ultra Model 189,Mobile,Samsung,94920,2025-11-05,ERP,,galaxy s24 ultra model 189,samsung,mobile,2,PROD_0087
+P00198,Galaxy S24 Ultra Model 198,Mobile,Samsung,95255,2026-03-15,Website,,galaxy s24 ultra model 198,samsung,mobile,2,PROD_0088
+P00200,HP Pavilion Model 200,Laptop,HP,60010,2025-10-31,Website,,hp pavilion model 200,hp,laptop,2,PROD_0113
+P00205,iPhone 15 Model 205,Mobile,Apple,64734,2025-12-06,Mobile App,,iphone 15 model 205,apple,mobile,2,PROD_0133
+P00213,Boat Earbuds Model 213,Audio,Boat,2080,2026-03-13,ERP,,boat earbuds model 213,boat,audio,2,PROD_0011
+P00218,HP Pavilion Model 218,Laptop,HP,59907,2026-01-22,Website,,hp pavilion model 218,hp,laptop,2,PROD_0114
+P00229,HP Pavilion Model 229,Laptop,HP,59893,2026-05-17,Mobile App,,hp pavilion model 229,hp,laptop,2,PROD_0115
+P00233,HP Pavilion Model 233,Laptop,HP,60021,2026-05-16,Mobile App,,hp pavilion model 233,hp,laptop,2,PROD_0116
+P00278,Lenovo ThinkPad Model 278,Laptop,Lenovo,74800,2026-09-14,Website,,lenovo thinkpad model 278,lenovo,laptop,2,PROD_0170
+P00282,Sony Headphones Model 282,Audio,Sony,12477,2025-04-29,ERP,,sony headphones model 282,sony,audio,2,PROD_0189
+P00287,Galaxy S24 Ultra Model 287,Mobile,Samsung,95236,2025-09-21,ERP,,galaxy s24 ultra model 287,samsung,mobile,2,PROD_0089
+P00290,Canon Camera Model 290,Camera,Canon,45284,2026-09-08,CRM,,canon camera model 290,canon,camera,2,PROD_0029
+P00309,Galaxy S24 Model 309,Mobile,Samsung,70377,2026-05-15,ERP,,galaxy s24 model 309,samsung,mobile,2,PROD_0069
+P00310,Dell Inspiron 15 Model 310,Laptop,Dell,55334,2026-11-07,Website,,dell inspiron 15 model 310,dell,laptop,2,PROD_0048
+P00320,HP Pavilion Model 320,Laptop,HP,60243,2026-08-13,CRM,,hp pavilion model 320,hp,laptop,2,PROD_0117
+P00325,Galaxy S24 Model 325,Mobile,Samsung,70142,2026-02-18,Website,,galaxy s24 model 325,samsung,mobile,2,PROD_0070
+P00326,iPhone 15 Model 326,Mobile,Apple,64621,2025-09-04,ERP,,iphone 15 model 326,apple,mobile,2,PROD_0134
+P00335,Lenovo ThinkPad Model 335,Laptop,Lenovo,74995,2026-10-23,ERP,,lenovo thinkpad model 335,lenovo,laptop,2,PROD_0171
+P00343,iPhone 15 Model 343,Mobile,Apple,65068,2026-04-03,Mobile App,,iphone 15 model 343,apple,mobile,2,PROD_0135
+P00347,HP Pavilion Model 347,Laptop,HP,60489,2026-07-12,Website,,hp pavilion model 347,hp,laptop,2,PROD_0118
+P00360,iPhone 15 Pro Model 360,Mobile,Apple,85144,2025-10-03,Website,,iphone 15 pro model 360,apple,mobile,2,PROD_0150
+P00373,iPhone 15 Model 373,Mobile,Apple,64674,2025-11-22,ERP,,iphone 15 model 373,apple,mobile,2,PROD_0136
+P00386,Galaxy S24 Model 386,Mobile,Samsung,70089,2025-02-28,CRM,,galaxy s24 model 386,samsung,mobile,3,PROD_0071
+P00414,HP Pavilion Model 414,Laptop,HP,60404,2025-07-23,CRM,,hp pavilion model 414,hp,laptop,2,PROD_0119
+P00420,Lenovo ThinkPad Model 420,Laptop,Lenovo,75013,2026-02-03,Website,,lenovo thinkpad model 420,lenovo,laptop,3,PROD_0172
+P00425,Sony Headphones Model 425,Audio,Sony,11796,2025-10-16,ERP,,sony headphones model 425,sony,audio,2,PROD_0190
+P00428,Galaxy S24 Ultra Model 428,Mobile,Samsung,94787,2025-04-28,Mobile App,,galaxy s24 ultra model 428,samsung,mobile,2,PROD_0090
+P00440,Dell Inspiron 15 Model 440,Laptop,Dell,55465,2025-12-26,ERP,,dell inspiron 15 model 440,dell,laptop,2,PROD_0049
+P00441,Galaxy S24 Ultra Model 441,Mobile,Samsung,94827,2025-02-18,Website,,galaxy s24 ultra model 441,samsung,mobile,2,PROD_0091
+P00447,iPhone 15 Model 447,Mobile,Apple,65199,2026-07-20,Website,,iphone 15 model 447,apple,mobile,2,PROD_0138
+P00459,Sony Headphones Model 459,Audio,Sony,12144,2025-05-01,ERP,,sony headphones model 459,sony,audio,2,PROD_0191
+P00462,Dell Inspiron 15 Model 462,Laptop,Dell,54546,2026-08-03,CRM,,dell inspiron 15 model 462,dell,laptop,2,PROD_0050
+P00465,Galaxy S24 Model 465,Mobile,Samsung,69948,2026-06-06,ERP,,galaxy s24 model 465,samsung,mobile,2,PROD_0072
+P00467,Canon Camera Model 467,Camera,Canon,44778,2025-07-31,Website,,canon camera model 467,canon,camera,2,PROD_0031
+P00491,Galaxy S24 Model 491,Mobile,Samsung,69693,2026-08-07,ERP,,galaxy s24 model 491,samsung,mobile,2,PROD_0073
+P00506,Boat Earbuds Model 506,Audio,Boat,2126,2025-01-22,CRM,,boat earbuds model 506,boat,audio,2,PROD_0012
+P00509,iPhone 15 Model 509,Mobile,Apple,65434,2025-08-18,CRM,,iphone 15 model 509,apple,mobile,2,PROD_0140
+P00527,HP Pavilion Model 527,Laptop,HP,60006,2026-03-11,ERP,,hp pavilion model 527,hp,laptop,2,PROD_0121
+P00535,iPhone 15 Model 535,Mobile,Apple,64871,2026-07-26,ERP,,iphone 15 model 535,apple,mobile,2,PROD_0141
+P00540,Galaxy S24 Model 540,Mobile,Samsung,69620,2025-05-27,ERP,,galaxy s24 model 540,samsung,mobile,2,PROD_0074
+P00566,Galaxy S24 Ultra Model 566,Mobile,Samsung,94775,2025-03-29,CRM,,galaxy s24 ultra model 566,samsung,mobile,2,PROD_0093
+P00579,Sony Headphones Model 579,Audio,Sony,12304,2025-05-15,Mobile App,,sony headphones model 579,sony,audio,2,PROD_0192
+P00584,iPhone 15 Pro Model 584,Mobile,Apple,85324,2025-01-16,Website,,iphone 15 pro model 584,apple,mobile,2,PROD_0151
+P00594,Sony Headphones Model 594,Audio,Sony,11875,2026-06-09,Mobile App,,sony headphones model 594,sony,audio,2,PROD_0193
+P00597,Galaxy S24 Ultra Model 597,Mobile,Samsung,95216,2026-07-29,CRM,,galaxy s24 ultra model 597,samsung,mobile,2,PROD_0094
+P00606,Galaxy S24 Ultra Model 606,Mobile,Samsung,95219,2026-05-03,CRM,,galaxy s24 ultra model 606,samsung,mobile,2,PROD_0095
+P00615,iPhone 15 Pro Model 615,Mobile,Apple,84805,2026-04-08,ERP,,iphone 15 pro model 615,apple,mobile,2,PROD_0153
+P00621,iPhone 15 Model 621,Mobile,Apple,65074,2026-09-04,Website,,iphone 15 model 621,apple,mobile,2,PROD_0142
+P00622,iPhone 15 Pro Model 622,Mobile,Apple,85240,2026-08-16,Website,,iphone 15 pro model 622,apple,mobile,2,PROD_0154
+P00638,Galaxy S24 Model 638,Mobile,Samsung,70066,2026-09-02,Website,,galaxy s24 model 638,samsung,mobile,2,PROD_0075
+P00641,iPhone 15 Pro Model 641,Mobile,Apple,85325,2025-04-17,CRM,,iphone 15 pro model 641,apple,mobile,2,PROD_0155
+P00657,Canon Camera Model 657,Camera,Canon,45159,2026-02-07,CRM,,canon camera model 657,canon,camera,2,PROD_0034
+P00662,Dell Inspiron 15 Model 662,Laptop,Dell,55357,2026-07-21,Website,,dell inspiron 15 model 662,dell,laptop,2,PROD_0052
+P00677,iPhone 15 Pro Model 677,Mobile,Apple,85002,2025-01-23,ERP,,iphone 15 pro model 677,apple,mobile,2,PROD_0156
+P00684,Sony Headphones Model 684,Audio,Sony,12128,2026-09-07,CRM,,sony headphones model 684,sony,audio,2,PROD_0194
+P00686,Galaxy S24 Ultra Model 686,Mobile,Samsung,95120,2025-01-31,CRM,,galaxy s24 ultra model 686,samsung,mobile,2,PROD_0097
+P00688,HP Pavilion Model 688,Laptop,HP,59617,2025-08-11,CRM,,hp pavilion model 688,hp,laptop,2,PROD_0122
+P00692,Boat Earbuds Model 692,Audio,Boat,2667,2025-10-29,ERP,,boat earbuds model 692,boat,audio,2,PROD_0013
+P00693,Sony Headphones Model 693,Audio,Sony,11946,2026-06-09,ERP,,sony headphones model 693,sony,audio,2,PROD_0195
+P00696,Canon Camera Model 696,Camera,Canon,45312,2026-08-25,Mobile App,,canon camera model 696,canon,camera,2,PROD_0035
+P00704,Canon Camera Model 704,Camera,Canon,44919,2025-10-28,Mobile App,,canon camera model 704,canon,camera,2,PROD_0036
+P00710,Galaxy S24 Ultra Model 710,Mobile,Samsung,94976,2026-08-05,Mobile App,,galaxy s24 ultra model 710,samsung,mobile,2,PROD_0098
+P00745,iPhone 15 Pro Model 745,Mobile,Apple,84576,2026-05-22,CRM,,iphone 15 pro model 745,apple,mobile,2,PROD_0157
+P00756,Dell Inspiron 15 Model 756,Laptop,Dell,54529,2026-05-03,ERP,,dell inspiron 15 model 756,dell,laptop,2,PROD_0053
+P00757,HP Pavilion Model 757,Laptop,HP,59771,2025-05-02,CRM,,hp pavilion model 757,hp,laptop,2,PROD_0123
+P00758,HP Pavilion Model 758,Laptop,HP,59941,2025-08-06,Website,,hp pavilion model 758,hp,laptop,2,PROD_0124
+P00762,Lenovo ThinkPad Model 762,Laptop,Lenovo,74698,2025-10-29,Website,,lenovo thinkpad model 762,lenovo,laptop,2,PROD_0174
+P00765,iPhone 15 Pro Model 765,Mobile,Apple,85197,2025-02-21,Website,,iphone 15 pro model 765,apple,mobile,2,PROD_0158
+P00768,iPhone 15 Pro Model 768,Mobile,Apple,85044,2025-04-14,Mobile App,,iphone 15 pro model 768,apple,mobile,2,PROD_0159
+P00781,Sony Headphones Model 781,Audio,Sony,12097,2025-01-02,ERP,,sony headphones model 781,sony,audio,2,PROD_0196
+P00794,Galaxy S24 Ultra Model 794,Mobile,Samsung,95262,2025-04-02,Website,,galaxy s24 ultra model 794,samsung,mobile,2,PROD_0099
+P00795,Lenovo ThinkPad Model 795,Laptop,Lenovo,75154,2025-04-21,Mobile App,,lenovo thinkpad model 795,lenovo,laptop,2,PROD_0175
+P00802,iPhone 15 Pro Model 802,Mobile,Apple,85492,2025-01-09,ERP,,iphone 15 pro model 802,apple,mobile,3,PROD_0160
+P00809,Lenovo ThinkPad Model 809,Laptop,Lenovo,74860,2026-11-08,CRM,,lenovo thinkpad model 809,lenovo,laptop,2,PROD_0176
+P00819,Galaxy S24 Ultra Model 819,Mobile,Samsung,94756,2025-05-19,ERP,,galaxy s24 ultra model 819,samsung,mobile,2,PROD_0100
+P00824,HP Pavilion Model 824,Laptop,HP,60015,2026-01-02,ERP,,hp pavilion model 824,hp,laptop,2,PROD_0125
+P00848,iPhone 15 Model 848,Mobile,Apple,64689,2025-05-26,Website,,iphone 15 model 848,apple,mobile,2,PROD_0143
+P00856,Canon Camera Model 856,Camera,Canon,44898,2025-01-12,Mobile App,,canon camera model 856,canon,camera,2,PROD_0037
+P00867,Canon Camera Model 867,Camera,Canon,45225,2026-06-04,Mobile App,,canon camera model 867,canon,camera,2,PROD_0038
+P00887,Boat Earbuds Model 887,Audio,Boat,2360,2026-01-01,Website,,boat earbuds model 887,boat,audio,2,PROD_0015
+P00892,iPhone 15 Model 892,Mobile,Apple,64729,2025-10-24,Mobile App,,iphone 15 model 892,apple,mobile,2,PROD_0144
+P00893,Lenovo ThinkPad Model 893,Laptop,Lenovo,75220,2026-01-02,CRM,,lenovo thinkpad model 893,lenovo,laptop,2,PROD_0177
+P00907,iPhone 15 Model 907,Mobile,Apple,65453,2025-02-26,CRM,,iphone 15 model 907,apple,mobile,2,PROD_0145
+P00912,iPhone 15 Pro Model 912,Mobile,Apple,84948,2025-05-01,Mobile App,,iphone 15 pro model 912,apple,mobile,2,PROD_0161
+P00917,Galaxy S24 Ultra Model 917,Mobile,Samsung,95332,2025-02-28,CRM,,galaxy s24 ultra model 917,samsung,mobile,2,PROD_0101
+P00921,Galaxy S24 Model 921,Mobile,Samsung,70120,2026-02-12,ERP,,galaxy s24 model 921,samsung,mobile,2,PROD_0076
+P00924,Sony Headphones Model 924,Audio,Sony,12222,2026-01-01,Website,,sony headphones model 924,sony,audio,2,PROD_0197
+P00927,Boat Earbuds Model 927,Audio,Boat,2914,2025-10-01,Mobile App,,boat earbuds model 927,boat,audio,2,PROD_0016
+P00932,iPhone 15 Pro Model 932,Mobile,Apple,84881,2025-05-26,CRM,,iphone 15 pro model 932,apple,mobile,2,PROD_0162
+P00938,Sony Headphones Model 938,Audio,Sony,11519,2026-01-27,ERP,,sony headphones model 938,sony,audio,2,PROD_0199
+P00953,Dell Inspiron 15 Model 953,Laptop,Dell,55301,2026-10-31,CRM,,dell inspiron 15 model 953,dell,laptop,3,PROD_0054
+P00961,Sony Headphones Model 961,Audio,Sony,11684,2025-09-22,Mobile App,,sony headphones model 961,sony,audio,2,PROD_0200
+P00963,Galaxy S24 Ultra Model 963,Mobile,Samsung,95145,2025-06-28,Website,,galaxy s24 ultra model 963,samsung,mobile,2,PROD_0102
+P00964,Canon Camera Model 964,Camera,Canon,45171,2025-02-20,Website,,canon camera model 964,canon,camera,2,PROD_0040
+P00981,Boat Earbuds Model 981,Audio,Boat,2732,2026-06-05,Mobile App,,boat earbuds model 981,boat,audio,2,PROD_0017
+P01005,Lenovo ThinkPad Model 1005,Laptop,Lenovo,74862,2025-05-11,ERP,,lenovo thinkpad model 1005,lenovo,laptop,2,PROD_0163
+P01019,Galaxy S24 Ultra Model 1019,Mobile,Samsung,94940,2026-06-16,Mobile App,,galaxy s24 ultra model 1019,samsung,mobile,2,PROD_0078
+P01024,Dell Inspiron 15 Model 1024,Laptop,Dell,55120,2025-04-19,Website,,dell inspiron 15 model 1024,dell,laptop,2,PROD_0041
+P01047,Boat Earbuds Model 1047,Audio,Boat,2625,2025-08-02,Website,,boat earbuds model 1047,boat,audio,3,PROD_0001
+P01048,iPhone 15 Model 1048,Mobile,Apple,64928,2025-09-27,ERP,,iphone 15 model 1048,apple,mobile,2,PROD_0126
+P01066,iPhone 15 Model 1066,Mobile,Apple,64815,2026-04-04,ERP,,iphone 15 model 1066,apple,mobile,2,PROD_0127
+P01073,Boat Earbuds Model 1073,Audio,Boat,2203,2025-06-10,ERP,,boat earbuds model 1073,boat,audio,2,PROD_0002
+P01075,HP Pavilion Model 1075,Laptop,HP,59923,2025-08-09,Website,,hp pavilion model 1075,hp,laptop,2,PROD_0103
+P01080,Dell Inspiron 15 Model 1080,Laptop,Dell,55267,2025-05-07,ERP,,dell inspiron 15 model 1080,dell,laptop,2,PROD_0043
+P01081,Lenovo ThinkPad Model 1081,Laptop,Lenovo,74634,2025-10-04,CRM,,lenovo thinkpad model 1081,lenovo,laptop,2,PROD_0164
+P01085,Galaxy S24 Ultra Model 1085,Mobile,Samsung,95351,2026-09-13,Mobile App,,galaxy s24 ultra model 1085,samsung,mobile,2,PROD_0079
+P01099,Sony Headphones Model 1099,Audio,Sony,12107,2025-09-13,CRM,,sony headphones model 1099,sony,audio,2,PROD_0179
+P01127,Boat Earbuds Model 1127,Audio,Boat,2904,2025-08-20,Mobile App,,boat earbuds model 1127,boat,audio,2,PROD_0003
+P01141,Boat Earbuds Model 1141,Audio,Boat,2826,2026-03-27,ERP,,boat earbuds model 1141,boat,audio,2,PROD_0004
+P01147,Galaxy S24 Model 1147,Mobile,Samsung,70468,2026-10-11,Mobile App,,galaxy s24 model 1147,samsung,mobile,2,PROD_0055
+P01151,Galaxy S24 Model 1151,Mobile,Samsung,69525,2026-01-10,ERP,,galaxy s24 model 1151,samsung,mobile,2,PROD_0056
+P01155,Sony Headphones Model 1155,Audio,Sony,11869,2026-06-23,Website,,sony headphones model 1155,sony,audio,2,PROD_0180
+P01165,Galaxy S24 Model 1165,Mobile,Samsung,70391,2025-05-15,CRM,,galaxy s24 model 1165,samsung,mobile,2,PROD_0057
+P01171,Canon Camera Model 1171,Camera,Canon,45239,2026-01-11,CRM,,canon camera model 1171,canon,camera,2,PROD_0018
+P01183,HP Pavilion Model 1183,Laptop,HP,59971,2025-03-25,Website,,hp pavilion model 1183,hp,laptop,2,PROD_0104
+P01192,Galaxy S24 Model 1192,Mobile,Samsung,69537,2026-08-23,ERP,,galaxy s24 model 1192,samsung,mobile,2,PROD_0058
+P01203,HP Pavilion Model 1203,Laptop,HP,59844,2026-10-26,CRM,,hp pavilion model 1203,hp,laptop,2,PROD_0105
+P01205,Galaxy S24 Model 1205,Mobile,Samsung,69978,2026-07-14,Website,,galaxy s24 model 1205,samsung,mobile,2,PROD_0059
+P01217,Dell Inspiron 15 Model 1217,Laptop,Dell,55311,2025-05-25,Mobile App,,dell inspiron 15 model 1217,dell,laptop,2,PROD_0044
+P01223,Boat Earbuds Model 1223,Audio,Boat,2865,2026-01-19,CRM,,boat earbuds model 1223,boat,audio,2,PROD_0005
+P01229,HP Pavilion Model 1229,Laptop,HP,60419,2025-10-17,ERP,,hp pavilion model 1229,hp,laptop,2,PROD_0106
+P01230,Canon Camera Model 1230,Camera,Canon,44903,2026-07-01,CRM,,canon camera model 1230,canon,camera,2,PROD_0019
+P01235,iPhone 15 Pro Model 1235,Mobile,Apple,85161,2025-08-24,Website,,iphone 15 pro model 1235,apple,mobile,2,PROD_0148
+P01238,Lenovo ThinkPad Model 1238,Laptop,Lenovo,75169,2025-07-04,ERP,,lenovo thinkpad model 1238,lenovo,laptop,2,PROD_0165
+P01239,Galaxy S24 Model 1239,Mobile,Samsung,69791,2025-11-15,ERP,,galaxy s24 model 1239,samsung,mobile,2,PROD_0060
+P01240,Sony Headphones Model 1240,Audio,Sony,11535,2025-09-25,ERP,,sony headphones model 1240,sony,audio,2,PROD_0181
+P01249,Sony Headphones Model 1249,Audio,Sony,12229,2025-12-10,Mobile App,,sony headphones model 1249,sony,audio,2,PROD_0182
+P01255,iPhone 15 Model 1255,Mobile,Apple,64624,2026-05-17,ERP,,iphone 15 model 1255,apple,mobile,2,PROD_0128
+P01256,HP Pavilion Model 1256,Laptop,HP,59551,2026-09-06,Mobile App,,hp pavilion model 1256,hp,laptop,2,PROD_0107
+P01267,Boat Earbuds Model 1267,Audio,Boat,2582,2026-04-15,CRM,,boat earbuds model 1267,boat,audio,2,PROD_0006
+P01274,Canon Camera Model 1274,Camera,Canon,44767,2025-11-07,Website,,canon camera model 1274,canon,camera,2,PROD_0020
+P01277,Galaxy S24 Model 1277,Mobile,Samsung,69783,2026-05-29,CRM,,galaxy s24 model 1277,samsung,mobile,2,PROD_0062
+P01279,Dell Inspiron 15 Model 1279,Laptop,Dell,54505,2026-02-21,Website,,dell inspiron 15 model 1279,dell,laptop,3,PROD_0045
+P01283,HP Pavilion Model 1283,Laptop,HP,59726,2025-03-07,Mobile App,,hp pavilion model 1283,hp,laptop,2,PROD_0108
+P01288,Sony Headphones Model 1288,Audio,Sony,11655,2026-04-19,ERP,,sony headphones model 1288,sony,audio,2,PROD_0183
+P01299,Lenovo ThinkPad Model 1299,Laptop,Lenovo,75121,2025-05-07,CRM,,lenovo thinkpad model 1299,lenovo,laptop,2,PROD_0166
+P01304,HP Pavilion Model 1304,Laptop,HP,60288,2026-01-07,CRM,,hp pavilion model 1304,hp,laptop,2,PROD_0109
+P01313,Canon Camera Model 1313,Camera,Canon,44729,2025-05-22,CRM,,canon camera model 1313,canon,camera,2,PROD_0021
+P01327,iPhone 15 Model 1327,Mobile,Apple,65266,2025-02-03,ERP,,iphone 15 model 1327,apple,mobile,2,PROD_0129
+P01330,Canon Camera Model 1330,Camera,Canon,45162,2026-07-01,CRM,,canon camera model 1330,canon,camera,2,PROD_0022
+P01333,Lenovo ThinkPad Model 1333,Laptop,Lenovo,75233,2026-06-08,ERP,,lenovo thinkpad model 1333,lenovo,laptop,2,PROD_0167
+P01335,Galaxy S24 Model 1335,Mobile,Samsung,70367,2025-09-26,CRM,,galaxy s24 model 1335,samsung,mobile,2,PROD_0063
+P01342,Canon Camera Model 1342,Camera,Canon,44781,2026-09-01,CRM,,canon camera model 1342,canon,camera,2,PROD_0023
+P01351,HP Pavilion Model 1351,Laptop,HP,60238,2026-06-05,ERP,,hp pavilion model 1351,hp,laptop,4,PROD_0110
+P01358,Galaxy S24 Ultra Model 1358,Mobile,Samsung,94729,2025-06-03,Mobile App,,galaxy s24 ultra model 1358,samsung,mobile,2,PROD_0081
+P01367,Galaxy S24 Ultra Model 1367,Mobile,Samsung,95206,2026-04-13,Website,,galaxy s24 ultra model 1367,samsung,mobile,2,PROD_0082
+P01385,Sony Headphones Model 1385,Audio,Sony,11614,2025-07-06,ERP,,sony headphones model 1385,sony,audio,2,PROD_0184
+P01399,Galaxy S24 Ultra Model 1399,Mobile,Samsung,95455,2025-09-27,ERP,,galaxy s24 ultra model 1399,samsung,mobile,2,PROD_0083
+P01401,HP Pavilion Model 1401,Laptop,HP,60244,2025-12-29,Mobile App,,hp pavilion model 1401,hp,laptop,2,PROD_0111
+P01402,Sony Headphones Model 1402,Audio,Sony,11815,2026-03-12,ERP,,sony headphones model 1402,sony,audio,2,PROD_0185
+P01413,iPhone 15 Model 1413,Mobile,Apple,65299,2026-11-07,ERP,,iphone 15 model 1413,apple,mobile,2,PROD_0130
+P01422,Boat Earbuds Model 1422,Audio,Boat,2543,2025-10-26,CRM,,boat earbuds model 1422,boat,audio,2,PROD_0007
+P01451,HP Pavilion Model 1451,Laptop,HP,60450,2025-08-24,Website,,hp pavilion model 1451,hp,laptop,2,PROD_0112
+P01458,Canon Camera Model 1458,Camera,Canon,45334,2025-05-08,CRM,,canon camera model 1458,canon,camera,2,PROD_0025
+P01482,Galaxy S24 Model 1482,Mobile,Samsung,70435,2026-02-22,CRM,,galaxy s24 model 1482,samsung,mobile,2,PROD_0066
+P01491,Canon Camera Model 1491,Camera,Canon,45184,2025-04-09,ERP,,canon camera model 1491,canon,camera,2,PROD_0026
+P01501,iPhone 15 Model 1501,Mobile,Apple,65313,2025-07-22,Website,,iphone 15 model 1501,apple,mobile,2,PROD_0131
+P01522,Boat Earbuds Model 1522,Audio,Boat,2371,2026-07-07,Website,,boat earbuds model 1522,boat,audio,2,PROD_0008
+P01523,Boat Earbuds Model 1523,Audio,Boat,2170,2026-01-19,Website,,boat earbuds model 1523,boat,audio,2,PROD_0009
+P01528,Sony Headphones Model 1528,Audio,Sony,11979,2025-11-26,Website,,sony headphones model 1528,sony,audio,3,PROD_0186
+P01562,Lenovo ThinkPad Model 1562,Laptop,Lenovo,75332,2026-10-06,ERP,,lenovo thinkpad model 1562,lenovo,laptop,2,PROD_0168
+P01564,iPhone 15 Model 1564,Mobile,Apple,65145,2025-12-03,CRM,,iphone 15 model 1564,apple,mobile,2,PROD_0132
+P01572,Sony Headphones Model 1572,Audio,Sony,12377,2025-04-02,Mobile App,,sony headphones model 1572,sony,audio,2,PROD_0187
+P01587,Dell Inspiron 15 Model 1587,Laptop,Dell,55128,2026-08-07,CRM,,dell inspiron 15 model 1587,dell,laptop,2,PROD_0047
+P01589,Galaxy S24 Ultra Model 1589,Mobile,Samsung,95061,2025-06-08,Mobile App,,galaxy s24 ultra model 1589,samsung,mobile,2,PROD_0084
+P01601,Galaxy S24 Ultra Model 198,Mobile,Samsung,95255,2026-06-04,ERP,,galaxy s24 ultra model 198,samsung,mobile,2,PROD_0088
+P01603,Lenovo ThinkPad Model 1238,Laptop,Lenovo,75169,2025-08-22,Mobile App,,lenovo thinkpad model 1238,lenovo,laptop,2,PROD_0165
+P01605,Dell Inspiron 15 Model 953,Laptop,Dell,55301,2025-10-03,CRM,,dell inspiron 15 model 953,dell,laptop,3,PROD_0054
+P01607,Galaxy S24 Ultra Model 1019,Mobile,Samsung,94940,2026-08-29,ERP,,galaxy s24 ultra model 1019,samsung,mobile,2,PROD_0078
+P01609,Galaxy S24 Model 1147,Mobile,Samsung,70468,2026-04-05,CRM,,galaxy s24 model 1147,samsung,mobile,2,PROD_0055
+P01611,Dell Inspiron 15 Model 131,Laptop,Dell,54595,2025-12-29,CRM,,dell inspiron 15 model 131,dell,laptop,2,PROD_0046
+P01613,Canon Camera Model 1491,Camera,Canon,45184,2025-01-29,ERP,,canon camera model 1491,canon,camera,2,PROD_0026
+P01615,Galaxy S24 Ultra Model 441,Mobile,Samsung,94827,2026-11-09,ERP,,galaxy s24 ultra model 441,samsung,mobile,2,PROD_0091
+P01617,iPhone 15 Pro Model 677,Mobile,Apple,85002,2025-08-27,ERP,,iphone 15 pro model 677,apple,mobile,2,PROD_0156
+P01619,Galaxy S24 Model 14,Mobile,Samsung,70065,2026-09-17,CRM,,galaxy s24 model 14,samsung,mobile,2,PROD_0065
+P01621,Dell Inspiron 15 Model 1587,Laptop,Dell,55128,2025-03-14,CRM,,dell inspiron 15 model 1587,dell,laptop,2,PROD_0047
+P01623,iPhone 15 Model 1501,Mobile,Apple,65313,2025-07-19,Website,,iphone 15 model 1501,apple,mobile,2,PROD_0131
+P01624,Galaxy S24 Ultra Model 1232 Edition,Mobile,Samsung,95406,2025-07-03,Website,,galaxy s24 ultra model 1232 edition,samsung,mobile,2,PROD_0080
+P01625,Galaxy S24 Ultra Model 61,Mobile,Samsung,95304,2026-10-27,ERP,,galaxy s24 ultra model 61,samsung,mobile,2,PROD_0096
+P01626,Galaxy S24 Model 1493 Edition,Mobile,Samsung,69724,2025-05-03,Mobile App,,galaxy s24 model 1493 edition,samsung,mobile,2,PROD_0067
+P01627,Lenovo ThinkPad Model 183,Laptop,Lenovo,74623,2025-04-07,ERP,,lenovo thinkpad model 183,lenovo,laptop,2,PROD_0169
+P01629,Sony Headphones Model 781,Audio,Sony,12097,2026-05-01,Website,,sony headphones model 781,sony,audio,2,PROD_0196
+P01631,Galaxy S24 Model 638,Mobile,Samsung,70066,2025-12-30,Website,,galaxy s24 model 638,samsung,mobile,2,PROD_0075
+P01633,Dell Inspiron 15 Model 1024,Laptop,Dell,55120,2025-04-03,Website,,dell inspiron 15 model 1024,dell,laptop,2,PROD_0041
+P01634,Galaxy S24 Ultra Model 534 Edition,Mobile,Samsung,94870,2026-02-16,Website,,galaxy s24 ultra model 534 edition,samsung,mobile,2,PROD_0092
+P01635,Galaxy S24 Model 465,Mobile,Samsung,69948,2025-12-26,CRM,,galaxy s24 model 465,samsung,mobile,2,PROD_0072
+P01637,Boat Earbuds Model 1073,Audio,Boat,2203,2025-09-21,CRM,,boat earbuds model 1073,boat,audio,2,PROD_0002
+P01639,Galaxy S24 Ultra Model 1399,Mobile,Samsung,95455,2026-01-18,CRM,,galaxy s24 ultra model 1399,samsung,mobile,2,PROD_0083
+P01641,Galaxy S24 Ultra Model 10,Mobile,Samsung,94739,2025-12-01,ERP,,galaxy s24 ultra model 10,samsung,mobile,3,PROD_0077
+P01643,Canon Camera Model 143,Camera,Canon,44707,2025-06-26,Website,,canon camera model 143,canon,camera,2,PROD_0024
+P01645,iPhone 15 Model 373,Mobile,Apple,64674,2026-07-03,Website,,iphone 15 model 373,apple,mobile,2,PROD_0136
+P01647,HP Pavilion Model 1229,Laptop,HP,60419,2026-01-19,Website,,hp pavilion model 1229,hp,laptop,2,PROD_0106
+P01649,iPhone 15 Pro Model 912,Mobile,Apple,84948,2025-02-01,CRM,,iphone 15 pro model 912,apple,mobile,2,PROD_0161
+P01651,Galaxy S24 Ultra Model 597,Mobile,Samsung,95216,2025-04-21,Mobile App,,galaxy s24 ultra model 597,samsung,mobile,2,PROD_0094
+P01653,iPhone 15 Model 205,Mobile,Apple,64734,2026-05-25,Website,,iphone 15 model 205,apple,mobile,2,PROD_0133
+P01655,iPhone 15 Pro Model 932,Mobile,Apple,84881,2026-11-06,ERP,,iphone 15 pro model 932,apple,mobile,2,PROD_0162
+P01656,iPhone 15 Model 918 Edition,Mobile,Apple,64629,2025-04-30,CRM,,iphone 15 model 918 edition,apple,mobile,2,PROD_0146
+P01657,Sony Headphones Model 693,Audio,Sony,11946,2025-09-10,Mobile App,,sony headphones model 693,sony,audio,2,PROD_0195
+P01659,Galaxy S24 Model 386,Mobile,Samsung,70089,2026-02-18,CRM,,galaxy s24 model 386,samsung,mobile,3,PROD_0071
+P01661,HP Pavilion Model 1351,Laptop,HP,60238,2026-08-29,CRM,,hp pavilion model 1351,hp,laptop,4,PROD_0110
+P01663,Dell Inspiron 15 Model 1080,Laptop,Dell,55267,2026-07-31,ERP,,dell inspiron 15 model 1080,dell,laptop,2,PROD_0043
+P01665,Sony Headphones Model 579,Audio,Sony,12304,2025-11-25,Website,,sony headphones model 579,sony,audio,2,PROD_0192
+P01666,iPhone 15 Model 918 Edition,Mobile,Apple,64629,2025-07-22,Mobile App,,iphone 15 model 918 edition,apple,mobile,2,PROD_0146
+P01667,HP Pavilion Model 1283,Laptop,HP,59726,2026-03-13,ERP,,hp pavilion model 1283,hp,laptop,2,PROD_0108
+P01669,Lenovo ThinkPad Model 1005,Laptop,Lenovo,74862,2025-01-25,ERP,,lenovo thinkpad model 1005,lenovo,laptop,2,PROD_0163
+P01671,Sony Headphones Model 1249,Audio,Sony,12229,2026-02-03,Mobile App,,sony headphones model 1249,sony,audio,2,PROD_0182
+P01673,Lenovo ThinkPad Model 1081,Laptop,Lenovo,74634,2025-02-12,Website,,lenovo thinkpad model 1081,lenovo,laptop,2,PROD_0164
+P01675,Canon Camera Model 1313,Camera,Canon,44729,2025-11-18,CRM,,canon camera model 1313,canon,camera,2,PROD_0021
+P01677,iPhone 15 Model 621,Mobile,Apple,65074,2026-01-30,Website,,iphone 15 model 621,apple,mobile,2,PROD_0142
+P01679,Sony Headphones Model 1402,Audio,Sony,11815,2026-03-21,Website,,sony headphones model 1402,sony,audio,2,PROD_0185
+P01681,Dell Inspiron 15 Model 440,Laptop,Dell,55465,2025-04-12,ERP,,dell inspiron 15 model 440,dell,laptop,2,PROD_0049
+P01683,Canon Camera Model 150,Camera,Canon,45343,2025-07-28,ERP,,canon camera model 150,canon,camera,2,PROD_0027
+P01685,Sony Headphones Model 93,Audio,Sony,11985,2026-01-26,Website,,sony headphones model 93,sony,audio,2,PROD_0198
+P01687,Galaxy S24 Ultra Model 10,Mobile,Samsung,94739,2025-09-04,Mobile App,,galaxy s24 ultra model 10,samsung,mobile,3,PROD_0077
+P01689,Lenovo ThinkPad Model 762,Laptop,Lenovo,74698,2026-02-16,CRM,,lenovo thinkpad model 762,lenovo,laptop,2,PROD_0174
+P01691,Canon Camera Model 1274,Camera,Canon,44767,2025-09-22,ERP,,canon camera model 1274,canon,camera,2,PROD_0020
+P01693,Lenovo ThinkPad Model 420,Laptop,Lenovo,75013,2026-11-01,Mobile App,,lenovo thinkpad model 420,lenovo,laptop,3,PROD_0172
+P01695,iPhone 15 Model 848,Mobile,Apple,64689,2026-01-22,Mobile App,,iphone 15 model 848,apple,mobile,2,PROD_0143
+P01697,Canon Camera Model 1230,Camera,Canon,44903,2025-01-11,ERP,,canon camera model 1230,canon,camera,2,PROD_0019
+P01698,Boat Earbuds Model 86 Edition,Audio,Boat,2301,2026-04-05,Website,,boat earbuds model 86 edition,boat,audio,2,PROD_0014
+P01699,Galaxy S24 Ultra Model 1358,Mobile,Samsung,94729,2025-08-17,CRM,,galaxy s24 ultra model 1358,samsung,mobile,2,PROD_0081
+P01701,iPhone 15 Model 326,Mobile,Apple,64621,2026-05-16,CRM,,iphone 15 model 326,apple,mobile,2,PROD_0134
+P01703,iPhone 15 Model 343,Mobile,Apple,65068,2025-09-20,ERP,,iphone 15 model 343,apple,mobile,2,PROD_0135
+P01704,iPhone 15 Pro Model 584 Edition,Mobile,Apple,85324,2026-07-04,Mobile App,,iphone 15 pro model 584 edition,apple,mobile,2,PROD_0152
+P01705,iPhone 15 Pro Model 584,Mobile,Apple,85324,2026-08-07,Mobile App,,iphone 15 pro model 584,apple,mobile,2,PROD_0151
+P01707,HP Pavilion Model 414,Laptop,HP,60404,2025-03-30,ERP,,hp pavilion model 414,hp,laptop,2,PROD_0119
+P01709,Sony Headphones Model 961,Audio,Sony,11684,2026-05-06,CRM,,sony headphones model 961,sony,audio,2,PROD_0200
+P01711,Lenovo ThinkPad Model 795,Laptop,Lenovo,75154,2025-07-08,CRM,,lenovo thinkpad model 795,lenovo,laptop,2,PROD_0175
+P01713,Lenovo ThinkPad Model 893,Laptop,Lenovo,75220,2026-09-23,Mobile App,,lenovo thinkpad model 893,lenovo,laptop,2,PROD_0177
+P01715,Boat Earbuds Model 1223,Audio,Boat,2865,2025-02-12,Website,,boat earbuds model 1223,boat,audio,2,PROD_0005
+P01717,Canon Camera Model 90,Camera,Canon,44566,2026-08-06,CRM,,canon camera model 90,canon,camera,2,PROD_0039
+P01719,iPhone 15 Pro Model 360,Mobile,Apple,85144,2025-12-25,ERP,,iphone 15 pro model 360,apple,mobile,2,PROD_0150
+P01721,iPhone 15 Pro Model 802,Mobile,Apple,85492,2026-01-25,Website,,iphone 15 pro model 802,apple,mobile,3,PROD_0160
+P01723,Dell Inspiron 15 Model 462,Laptop,Dell,54546,2025-07-08,Website,,dell inspiron 15 model 462,dell,laptop,2,PROD_0050
+P01725,HP Pavilion Model 52,Laptop,HP,59931,2026-03-28,CRM,,hp pavilion model 52,hp,laptop,2,PROD_0120
+P01726,Dell Inspiron 15 Model 504 Edition,Laptop,Dell,54839,2026-09-09,Mobile App,,dell inspiron 15 model 504 edition,dell,laptop,2,PROD_0051
+P01727,Boat Earbuds Model 1141,Audio,Boat,2826,2025-06-14,Website,,boat earbuds model 1141,boat,audio,2,PROD_0004
+P01729,HP Pavilion Model 229,Laptop,HP,59893,2025-03-08,ERP,,hp pavilion model 229,hp,laptop,2,PROD_0115
+P01731,Boat Earbuds Model 1267,Audio,Boat,2582,2025-06-23,Mobile App,,boat earbuds model 1267,boat,audio,2,PROD_0006
+P01732,Lenovo ThinkPad Model 759 Edition,Laptop,Lenovo,75014,2025-02-09,Website,,lenovo thinkpad model 759 edition,lenovo,laptop,2,PROD_0173
+P01733,Boat Earbuds Model 213,Audio,Boat,2080,2025-08-28,CRM,,boat earbuds model 213,boat,audio,2,PROD_0011
+P01735,Galaxy S24 Ultra Model 794,Mobile,Samsung,95262,2026-08-04,CRM,,galaxy s24 ultra model 794,samsung,mobile,2,PROD_0099
+P01737,Sony Headphones Model 1155,Audio,Sony,11869,2026-07-13,CRM,,sony headphones model 1155,sony,audio,2,PROD_0180
+P01739,Canon Camera Model 1171,Camera,Canon,45239,2026-10-23,ERP,,canon camera model 1171,canon,camera,2,PROD_0018
+P01741,Galaxy S24 Model 921,Mobile,Samsung,70120,2025-09-01,ERP,,galaxy s24 model 921,samsung,mobile,2,PROD_0076
+P01743,HP Pavilion Model 1304,Laptop,HP,60288,2026-04-11,ERP,,hp pavilion model 1304,hp,laptop,2,PROD_0109
+P01745,Sony Headphones Model 459,Audio,Sony,12144,2025-05-28,Mobile App,,sony headphones model 459,sony,audio,2,PROD_0191
+P01747,HP Pavilion Model 527,Laptop,HP,60006,2025-06-14,Mobile App,,hp pavilion model 527,hp,laptop,2,PROD_0121
+P01749,iPhone 15 Pro Model 615,Mobile,Apple,84805,2025-05-28,CRM,,iphone 15 pro model 615,apple,mobile,2,PROD_0153
+P01751,HP Pavilion Model 824,Laptop,HP,60015,2025-05-09,Mobile App,,hp pavilion model 824,hp,laptop,2,PROD_0125
+P01753,Canon Camera Model 856,Camera,Canon,44898,2026-04-17,ERP,,canon camera model 856,canon,camera,2,PROD_0037
+P01755,iPhone 15 Pro Model 745,Mobile,Apple,84576,2025-12-12,Mobile App,,iphone 15 pro model 745,apple,mobile,2,PROD_0157
+P01757,Galaxy S24 Model 1482,Mobile,Samsung,70435,2026-06-27,Website,,galaxy s24 model 1482,samsung,mobile,2,PROD_0066
+P01758,Dell Inspiron 15 Model 504 Edition,Laptop,Dell,54839,2025-08-11,Website,,dell inspiron 15 model 504 edition,dell,laptop,2,PROD_0051
+P01759,Galaxy S24 Model 1165,Mobile,Samsung,70391,2025-07-19,Mobile App,,galaxy s24 model 1165,samsung,mobile,2,PROD_0057
+P01761,iPhone 15 Pro Model 768,Mobile,Apple,85044,2026-10-22,Mobile App,,iphone 15 pro model 768,apple,mobile,2,PROD_0159
+P01763,Canon Camera Model 964,Camera,Canon,45171,2025-04-22,ERP,,canon camera model 964,canon,camera,2,PROD_0040
+P01765,Sony Headphones Model 105,Audio,Sony,11739,2025-07-24,Website,,sony headphones model 105,sony,audio,2,PROD_0178
+P01767,HP Pavilion Model 1351,Laptop,HP,60238,2026-01-29,ERP,,hp pavilion model 1351,hp,laptop,4,PROD_0110
+P01769,Boat Earbuds Model 1422,Audio,Boat,2543,2025-07-31,ERP,,boat earbuds model 1422,boat,audio,2,PROD_0007
+P01771,Sony Headphones Model 1528,Audio,Sony,11979,2026-07-31,Website,,sony headphones model 1528,sony,audio,3,PROD_0186
+P01773,Galaxy S24 Model 309,Mobile,Samsung,70377,2026-02-26,Mobile App,,galaxy s24 model 309,samsung,mobile,2,PROD_0069
+P01775,Lenovo ThinkPad Model 1562,Laptop,Lenovo,75332,2026-05-14,Mobile App,,lenovo thinkpad model 1562,lenovo,laptop,2,PROD_0168
+P01777,Sony Headphones Model 1385,Audio,Sony,11614,2025-04-10,CRM,,sony headphones model 1385,sony,audio,2,PROD_0184
+P01779,iPhone 15 Pro Model 109,Mobile,Apple,84573,2025-12-06,CRM,,iphone 15 pro model 109,apple,mobile,2,PROD_0147
+P01781,Boat Earbuds Model 1523,Audio,Boat,2170,2025-06-04,Website,,boat earbuds model 1523,boat,audio,2,PROD_0009
+P01783,Galaxy S24 Model 1277,Mobile,Samsung,69783,2025-11-20,ERP,,galaxy s24 model 1277,samsung,mobile,2,PROD_0062
+P01785,Sony Headphones Model 594,Audio,Sony,11875,2025-11-07,CRM,,sony headphones model 594,sony,audio,2,PROD_0193
+P01787,Lenovo ThinkPad Model 335,Laptop,Lenovo,74995,2026-03-02,CRM,,lenovo thinkpad model 335,lenovo,laptop,2,PROD_0171
+P01789,Galaxy S24 Model 325,Mobile,Samsung,70142,2026-07-30,ERP,,galaxy s24 model 325,samsung,mobile,2,PROD_0070
+P01790,iPhone 15 Pro Model 1434 Edition,Mobile,Apple,85078,2025-10-15,Website,,iphone 15 pro model 1434 edition,apple,mobile,2,PROD_0149
+P01791,HP Pavilion Model 233,Laptop,HP,60021,2026-11-11,Website,,hp pavilion model 233,hp,laptop,2,PROD_0116
+P01793,Lenovo ThinkPad Model 278,Laptop,Lenovo,74800,2026-01-26,ERP,,lenovo thinkpad model 278,lenovo,laptop,2,PROD_0170
+P01795,Sony Headphones Model 1572,Audio,Sony,12377,2025-01-21,Mobile App,,sony headphones model 1572,sony,audio,2,PROD_0187
+P01797,Galaxy S24 Ultra Model 917,Mobile,Samsung,95332,2025-01-21,ERP,,galaxy s24 ultra model 917,samsung,mobile,2,PROD_0101
+P01799,Canon Camera Model 696,Camera,Canon,45312,2025-03-29,Mobile App,,canon camera model 696,canon,camera,2,PROD_0035
+P01801,Dell Inspiron 15 Model 1279,Laptop,Dell,54505,2025-11-04,ERP,,dell inspiron 15 model 1279,dell,laptop,3,PROD_0045
+P01803,Lenovo ThinkPad Model 1299,Laptop,Lenovo,75121,2025-11-25,Mobile App,,lenovo thinkpad model 1299,lenovo,laptop,2,PROD_0166
+P01805,iPhone 15 Pro Model 1235,Mobile,Apple,85161,2026-05-22,CRM,,iphone 15 pro model 1235,apple,mobile,2,PROD_0148
+P01807,HP Pavilion Model 347,Laptop,HP,60489,2026-01-09,Mobile App,,hp pavilion model 347,hp,laptop,2,PROD_0118
+P01809,iPhone 15 Model 1066,Mobile,Apple,64815,2025-01-25,ERP,,iphone 15 model 1066,apple,mobile,2,PROD_0127
+P01811,Canon Camera Model 1330,Camera,Canon,45162,2025-09-02,Mobile App,,canon camera model 1330,canon,camera,2,PROD_0022
+P01813,Boat Earbuds Model 692,Audio,Boat,2667,2025-02-11,Mobile App,,boat earbuds model 692,boat,audio,2,PROD_0013
+P01815,HP Pavilion Model 1351,Laptop,HP,60238,2025-03-24,Mobile App,,hp pavilion model 1351,hp,laptop,4,PROD_0110
+P01817,Dell Inspiron 15 Model 1279,Laptop,Dell,54505,2025-01-11,CRM,,dell inspiron 15 model 1279,dell,laptop,3,PROD_0045
+P01819,Galaxy S24 Ultra Model 963,Mobile,Samsung,95145,2026-01-25,ERP,,galaxy s24 ultra model 963,samsung,mobile,2,PROD_0102
+P01821,HP Pavilion Model 688,Laptop,HP,59617,2026-01-11,ERP,,hp pavilion model 688,hp,laptop,2,PROD_0122
+P01823,Galaxy S24 Ultra Model 710,Mobile,Samsung,94976,2025-09-25,Website,,galaxy s24 ultra model 710,samsung,mobile,2,PROD_0098
+P01825,Galaxy S24 Ultra Model 171,Mobile,Samsung,95231,2026-04-06,CRM,,galaxy s24 ultra model 171,samsung,mobile,2,PROD_0086
+P01827,iPhone 15 Model 48,Mobile,Apple,64964,2025-05-12,CRM,,iphone 15 model 48,apple,mobile,2,PROD_0139
+P01829,iPhone 15 Pro Model 765,Mobile,Apple,85197,2025-03-08,Website,,iphone 15 pro model 765,apple,mobile,2,PROD_0158
+P01831,Boat Earbuds Model 155,Audio,Boat,2298,2025-01-10,CRM,,boat earbuds model 155,boat,audio,2,PROD_0010
+P01833,HP Pavilion Model 320,Laptop,HP,60243,2026-08-20,ERP,,hp pavilion model 320,hp,laptop,2,PROD_0117
+P01835,iPhone 15 Model 1255,Mobile,Apple,64624,2025-05-05,CRM,,iphone 15 model 1255,apple,mobile,2,PROD_0128
+P01837,Sony Headphones Model 1528,Audio,Sony,11979,2025-03-25,Website,,sony headphones model 1528,sony,audio,3,PROD_0186
+P01839,Boat Earbuds Model 887,Audio,Boat,2360,2025-08-27,Website,,boat earbuds model 887,boat,audio,2,PROD_0015
+P01841,Canon Camera Model 657,Camera,Canon,45159,2026-10-03,Website,,canon camera model 657,canon,camera,2,PROD_0034
+P01843,Sony Headphones Model 1240,Audio,Sony,11535,2025-07-10,ERP,,sony headphones model 1240,sony,audio,2,PROD_0181
+P01845,iPhone 15 Model 907,Mobile,Apple,65453,2025-07-09,CRM,,iphone 15 model 907,apple,mobile,2,PROD_0145
+P01847,Galaxy S24 Model 540,Mobile,Samsung,69620,2025-05-28,Website,,galaxy s24 model 540,samsung,mobile,2,PROD_0074
+P01848,iPhone 15 Pro Model 1434 Edition,Mobile,Apple,85078,2025-05-07,CRM,,iphone 15 pro model 1434 edition,apple,mobile,2,PROD_0149
+P01849,Galaxy S24 Model 386,Mobile,Samsung,70089,2025-07-11,Mobile App,,galaxy s24 model 386,samsung,mobile,3,PROD_0071
+P01851,Lenovo ThinkPad Model 809,Laptop,Lenovo,74860,2026-10-13,Mobile App,,lenovo thinkpad model 809,lenovo,laptop,2,PROD_0176
+P01852,Galaxy S24 Ultra Model 1232 Edition,Mobile,Samsung,95406,2026-02-27,Mobile App,,galaxy s24 ultra model 1232 edition,samsung,mobile,2,PROD_0080
+P01853,iPhone 15 Model 447,Mobile,Apple,65199,2026-03-13,Mobile App,,iphone 15 model 447,apple,mobile,2,PROD_0138
+P01855,Canon Camera Model 1342,Camera,Canon,44781,2025-09-15,Mobile App,,canon camera model 1342,canon,camera,2,PROD_0023
+P01857,Galaxy S24 Model 127,Mobile,Samsung,69657,2025-03-06,ERP,,galaxy s24 model 127,samsung,mobile,2,PROD_0061
+P01859,Sony Headphones Model 164,Audio,Sony,11996,2026-04-02,CRM,,sony headphones model 164,sony,audio,2,PROD_0188
+P01861,Galaxy S24 Model 1205,Mobile,Samsung,69978,2026-01-06,CRM,,galaxy s24 model 1205,samsung,mobile,2,PROD_0059
+P01863,Sony Headphones Model 924,Audio,Sony,12222,2026-01-02,ERP,,sony headphones model 924,sony,audio,2,PROD_0197
+P01864,Lenovo ThinkPad Model 759 Edition,Laptop,Lenovo,75014,2026-05-27,Mobile App,,lenovo thinkpad model 759 edition,lenovo,laptop,2,PROD_0173
+P01865,iPhone 15 Model 1564,Mobile,Apple,65145,2026-05-16,Mobile App,,iphone 15 model 1564,apple,mobile,2,PROD_0132
+P01867,HP Pavilion Model 1203,Laptop,HP,59844,2025-06-24,CRM,,hp pavilion model 1203,hp,laptop,2,PROD_0105
+P01869,Dell Inspiron 15 Model 953,Laptop,Dell,55301,2026-04-18,Mobile App,,dell inspiron 15 model 953,dell,laptop,3,PROD_0054
+P01871,Boat Earbuds Model 927,Audio,Boat,2914,2025-06-06,Website,,boat earbuds model 927,boat,audio,2,PROD_0016
+P01873,Canon Camera Model 51,Camera,Canon,44629,2025-05-23,Mobile App,,canon camera model 51,canon,camera,2,PROD_0032
+P01875,Galaxy S24 Ultra Model 819,Mobile,Samsung,94756,2026-01-10,CRM,,galaxy s24 ultra model 819,samsung,mobile,2,PROD_0100
+P01877,Dell Inspiron 15 Model 310,Laptop,Dell,55334,2026-08-31,Website,,dell inspiron 15 model 310,dell,laptop,2,PROD_0048
+P01879,iPhone 15 Pro Model 802,Mobile,Apple,85492,2026-04-29,Website,,iphone 15 pro model 802,apple,mobile,3,PROD_0160
+P01881,Canon Camera Model 45,Camera,Canon,45306,2026-05-25,ERP,,canon camera model 45,canon,camera,2,PROD_0030
+P01883,Canon Camera Model 467,Camera,Canon,44778,2025-07-14,ERP,,canon camera model 467,canon,camera,2,PROD_0031
+P01885,iPhone 15 Model 892,Mobile,Apple,64729,2025-06-13,ERP,,iphone 15 model 892,apple,mobile,2,PROD_0144
+P01887,HP Pavilion Model 218,Laptop,HP,59907,2025-03-10,Mobile App,,hp pavilion model 218,hp,laptop,2,PROD_0114
+P01889,Canon Camera Model 290,Camera,Canon,45284,2025-08-29,ERP,,canon camera model 290,canon,camera,2,PROD_0029
+P01891,Canon Camera Model 27,Camera,Canon,45327,2025-11-12,Website,,canon camera model 27,canon,camera,2,PROD_0028
+P01893,HP Pavilion Model 1401,Laptop,HP,60244,2026-09-26,ERP,,hp pavilion model 1401,hp,laptop,2,PROD_0111
+P01895,Galaxy S24 Ultra Model 1085,Mobile,Samsung,95351,2025-10-16,Mobile App,,galaxy s24 ultra model 1085,samsung,mobile,2,PROD_0079
+P01897,HP Pavilion Model 757,Laptop,HP,59771,2026-08-02,ERP,,hp pavilion model 757,hp,laptop,2,PROD_0123
+P01899,HP Pavilion Model 758,Laptop,HP,59941,2026-03-04,Website,,hp pavilion model 758,hp,laptop,2,PROD_0124
+P01901,iPhone 15 Pro Model 641,Mobile,Apple,85325,2026-10-12,ERP,,iphone 15 pro model 641,apple,mobile,2,PROD_0155
+P01903,HP Pavilion Model 1183,Laptop,HP,59971,2025-12-06,Website,,hp pavilion model 1183,hp,laptop,2,PROD_0104
+P01905,HP Pavilion Model 1451,Laptop,HP,60450,2026-08-31,Website,,hp pavilion model 1451,hp,laptop,2,PROD_0112
+P01907,iPhone 15 Model 40,Mobile,Apple,65441,2025-11-17,CRM,,iphone 15 model 40,apple,mobile,3,PROD_0137
+P01909,Galaxy S24 Model 167,Mobile,Samsung,69674,2026-06-26,ERP,,galaxy s24 model 167,samsung,mobile,2,PROD_0068
+P01911,Galaxy S24 Model 138,Mobile,Samsung,69613,2026-04-06,ERP,,galaxy s24 model 138,samsung,mobile,2,PROD_0064
+P01912,Galaxy S24 Ultra Model 1593 Edition,Mobile,Samsung,95487,2025-07-17,Mobile App,,galaxy s24 ultra model 1593 edition,samsung,mobile,2,PROD_0085
+P01913,Canon Camera Model 1458,Camera,Canon,45334,2025-05-27,Mobile App,,canon camera model 1458,canon,camera,2,PROD_0025
+P01914,Galaxy S24 Ultra Model 1593 Edition,Mobile,Samsung,95487,2025-03-02,ERP,,galaxy s24 ultra model 1593 edition,samsung,mobile,2,PROD_0085
+P01915,Boat Earbuds Model 506,Audio,Boat,2126,2025-08-17,CRM,,boat earbuds model 506,boat,audio,2,PROD_0012
+P01917,Galaxy S24 Model 1151,Mobile,Samsung,69525,2025-05-30,Mobile App,,galaxy s24 model 1151,samsung,mobile,2,PROD_0056
+P01919,Galaxy S24 Model 1239,Mobile,Samsung,69791,2026-07-04,Website,,galaxy s24 model 1239,samsung,mobile,2,PROD_0060
+P01921,Galaxy S24 Ultra Model 606,Mobile,Samsung,95219,2025-03-04,Website,,galaxy s24 ultra model 606,samsung,mobile,2,PROD_0095
+P01923,iPhone 15 Model 509,Mobile,Apple,65434,2026-01-21,ERP,,iphone 15 model 509,apple,mobile,2,PROD_0140
+P01925,iPhone 15 Model 535,Mobile,Apple,64871,2025-07-29,Website,,iphone 15 model 535,apple,mobile,2,PROD_0141
+P01927,Galaxy S24 Model 1335,Mobile,Samsung,70367,2026-10-22,ERP,,galaxy s24 model 1335,samsung,mobile,2,PROD_0063
+P01929,Galaxy S24 Ultra Model 1589,Mobile,Samsung,95061,2025-06-01,ERP,,galaxy s24 ultra model 1589,samsung,mobile,2,PROD_0084
+P01931,Dell Inspiron 15 Model 1217,Laptop,Dell,55311,2026-03-31,Mobile App,,dell inspiron 15 model 1217,dell,laptop,2,PROD_0044
+P01933,Galaxy S24 Ultra Model 566,Mobile,Samsung,94775,2025-07-22,ERP,,galaxy s24 ultra model 566,samsung,mobile,2,PROD_0093
+P01934,iPhone 15 Pro Model 584 Edition,Mobile,Apple,85324,2025-06-16,Website,,iphone 15 pro model 584 edition,apple,mobile,2,PROD_0152
+P01935,Dell Inspiron 15 Model 662,Laptop,Dell,55357,2025-01-18,CRM,,dell inspiron 15 model 662,dell,laptop,2,PROD_0052
+P01936,Dell Inspiron 15 Model 108 Edition,Laptop,Dell,55448,2025-12-01,ERP,,dell inspiron 15 model 108 edition,dell,laptop,2,PROD_0042
+P01937,Dell Inspiron 15 Model 756,Laptop,Dell,54529,2025-05-26,Mobile App,,dell inspiron 15 model 756,dell,laptop,2,PROD_0053
+P01939,Sony Headphones Model 1288,Audio,Sony,11655,2026-03-21,Mobile App,,sony headphones model 1288,sony,audio,2,PROD_0183
+P01941,HP Pavilion Model 1256,Laptop,HP,59551,2025-02-05,Mobile App,,hp pavilion model 1256,hp,laptop,2,PROD_0107
+P01943,iPhone 15 Model 1048,Mobile,Apple,64928,2025-02-27,Website,,iphone 15 model 1048,apple,mobile,2,PROD_0126
+P01945,Galaxy S24 Ultra Model 287,Mobile,Samsung,95236,2025-06-05,CRM,,galaxy s24 ultra model 287,samsung,mobile,2,PROD_0089
+P01947,Galaxy S24 Ultra Model 189,Mobile,Samsung,94920,2026-01-04,Mobile App,,galaxy s24 ultra model 189,samsung,mobile,2,PROD_0087
+P01949,Canon Camera Model 704,Camera,Canon,44919,2025-03-13,ERP,,canon camera model 704,canon,camera,2,PROD_0036
+P01951,HP Pavilion Model 1075,Laptop,HP,59923,2026-03-03,ERP,,hp pavilion model 1075,hp,laptop,2,PROD_0103
+P01953,Sony Headphones Model 425,Audio,Sony,11796,2026-04-05,Website,,sony headphones model 425,sony,audio,2,PROD_0190
+P01955,Galaxy S24 Model 491,Mobile,Samsung,69693,2025-02-27,CRM,,galaxy s24 model 491,samsung,mobile,2,PROD_0073
+P01956,Dell Inspiron 15 Model 108 Edition,Laptop,Dell,55448,2026-10-21,Website,,dell inspiron 15 model 108 edition,dell,laptop,2,PROD_0042
+P01957,Boat Earbuds Model 981,Audio,Boat,2732,2025-02-13,CRM,,boat earbuds model 981,boat,audio,2,PROD_0017
+P01959,Sony Headphones Model 282,Audio,Sony,12477,2026-05-28,Mobile App,,sony headphones model 282,sony,audio,2,PROD_0189
+P01961,iPhone 15 Model 40,Mobile,Apple,65441,2026-06-07,Mobile App,,iphone 15 model 40,apple,mobile,3,PROD_0137
+P01963,Boat Earbuds Model 1127,Audio,Boat,2904,2025-03-11,CRM,,boat earbuds model 1127,boat,audio,2,PROD_0003
+P01965,Galaxy S24 Ultra Model 428,Mobile,Samsung,94787,2025-08-24,ERP,,galaxy s24 ultra model 428,samsung,mobile,2,PROD_0090
+P01967,Galaxy S24 Model 1192,Mobile,Samsung,69537,2026-01-12,Website,,galaxy s24 model 1192,samsung,mobile,2,PROD_0058
+P01969,Sony Headphones Model 1099,Audio,Sony,12107,2025-01-08,Mobile App,,sony headphones model 1099,sony,audio,2,PROD_0179
+P01971,Boat Earbuds Model 1047,Audio,Boat,2625,2026-02-02,Website,,boat earbuds model 1047,boat,audio,3,PROD_0001
+P01973,Galaxy S24 Ultra Model 686,Mobile,Samsung,95120,2025-07-20,Mobile App,,galaxy s24 ultra model 686,samsung,mobile,2,PROD_0097
+P01974,Galaxy S24 Ultra Model 534 Edition,Mobile,Samsung,94870,2026-02-07,CRM,,galaxy s24 ultra model 534 edition,samsung,mobile,2,PROD_0092
+P01975,Lenovo ThinkPad Model 1333,Laptop,Lenovo,75233,2025-10-20,ERP,,lenovo thinkpad model 1333,lenovo,laptop,2,PROD_0167
+P01977,Lenovo ThinkPad Model 420,Laptop,Lenovo,75013,2025-07-09,CRM,,lenovo thinkpad model 420,lenovo,laptop,3,PROD_0172
+P01978,Boat Earbuds Model 86 Edition,Audio,Boat,2301,2026-02-01,CRM,,boat earbuds model 86 edition,boat,audio,2,PROD_0014
+P01979,Boat Earbuds Model 1522,Audio,Boat,2371,2025-07-30,Website,,boat earbuds model 1522,boat,audio,2,PROD_0008
+P01981,iPhone 15 Model 1413,Mobile,Apple,65299,2025-08-08,Mobile App,,iphone 15 model 1413,apple,mobile,2,PROD_0130
+P01983,iPhone 15 Model 1327,Mobile,Apple,65266,2026-10-04,Website,,iphone 15 model 1327,apple,mobile,2,PROD_0129
+P01985,Boat Earbuds Model 1047,Audio,Boat,2625,2025-01-25,Mobile App,,boat earbuds model 1047,boat,audio,3,PROD_0001
+P01987,Sony Headphones Model 684,Audio,Sony,12128,2025-07-31,ERP,,sony headphones model 684,sony,audio,2,PROD_0194
+P01989,Sony Headphones Model 938,Audio,Sony,11519,2026-02-05,Website,,sony headphones model 938,sony,audio,2,PROD_0199
+P01991,Galaxy S24 Ultra Model 1367,Mobile,Samsung,95206,2025-09-12,CRM,,galaxy s24 ultra model 1367,samsung,mobile,2,PROD_0082
+P01993,Canon Camera Model 64,Camera,Canon,44806,2026-09-27,CRM,,canon camera model 64,canon,camera,2,PROD_0033
+P01995,iPhone 15 Pro Model 622,Mobile,Apple,85240,2026-04-01,ERP,,iphone 15 pro model 622,apple,mobile,2,PROD_0154
+P01996,Galaxy S24 Model 1493 Edition,Mobile,Samsung,69724,2026-08-05,Website,,galaxy s24 model 1493 edition,samsung,mobile,2,PROD_0067
+P01997,HP Pavilion Model 200,Laptop,HP,60010,2025-02-24,Mobile App,,hp pavilion model 200,hp,laptop,2,PROD_0113
+P01999,Canon Camera Model 867,Camera,Canon,45225,2026-01-17,CRM,,canon camera model 867,canon,camera,2,PROD_0038

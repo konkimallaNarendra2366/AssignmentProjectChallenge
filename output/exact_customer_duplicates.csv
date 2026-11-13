@@ -1,0 +1,417 @@
+customer_id,name,email,phone,city,updated_at,source,rejection_reason,normalized_name,normalized_email,normalized_phone,normalized_city,duplicate_count,duplicate_group_id
+C00003,Meera Rao,meera.rao2@example.com,9000000002,Hyderabad,2025-01-31,CRM,,meera rao,meera.rao2@example.com,9000000002,hyderabad,2,CUST_0071
+C00007,Divya Rao,divya.rao6@example.com,9000000006,Bangalore,2025-10-12,Website,,divya rao,divya.rao6@example.com,9000000006,bangalore,2,CUST_0044
+C00011,Rohan Rao,rohan.rao10@example.com,9000000010,Hyderabad,2026-07-20,Mobile App,,rohan rao,rohan.rao10@example.com,9000000010,hyderabad,2,CUST_0159
+C00029,Vijay Kumar,vijay.kumar28@example.com,9000000028,Hyderabad,2026-07-04,Mobile App,,vijay kumar,vijay.kumar28@example.com,9000000028,hyderabad,2,CUST_0200
+C00041,Anjali Das,anjali.das40@example.com,9000000040,Mumbai,2025-05-04,Website,,anjali das,anjali.das40@example.com,9000000040,mumbai,3,CUST_0016
+C00043,Meera Patel,meera.patel42@example.com,9000000042,Hyderabad,2025-03-14,CRM,,meera patel,meera.patel42@example.com,9000000042,hyderabad,2,CUST_0068
+C00044,Amit Sharma,amit.sharma43@example.com,9000000043,Hyderabad,2025-12-05,CRM,,amit sharma,amit.sharma43@example.com,9000000043,hyderabad,2,CUST_0010
+C00048,Rahul Rao,rahul.rao47@example.com,9000000047,Bangalore,2026-03-10,ERP,,rahul rao,rahul.rao47@example.com,9000000047,bangalore,2,CUST_0136
+C00059,Meera Das,meera.das58@example.com,9000000058,Hyderabad,2025-11-18,CRM,,meera das,meera.das58@example.com,9000000058,hyderabad,2,CUST_0065
+C00083,Amit Patel,amit.patel82@example.com,9000000082,Hyderabad,2025-12-29,ERP,,amit patel,amit.patel82@example.com,9000000082,hyderabad,3,CUST_0007
+C00093,Narendra Sharma,narendra.sharma92@example.com,9000000092,Pune,2026-03-21,Mobile App,,narendra sharma,narendra.sharma92@example.com,9000000092,pune,2,CUST_0091
+C00094,Divya Singh,divya.singh93@example.com,9000000093,Mumbai,2026-09-13,CRM,,divya singh,divya.singh93@example.com,9000000093,mumbai,2,CUST_0051
+C00105,Suresh Reddy,suresh.reddy104@example.com,9000000104,Hyderabad,2025-10-18,Mobile App,,suresh reddy,suresh.reddy104@example.com,9000000104,hyderabad,2,CUST_0180
+C00107,Priya Kumar,priya.kumar106@example.com,9000000106,Hyderabad,2025-09-08,ERP,,priya kumar,priya.kumar106@example.com,9000000106,hyderabad,2,CUST_0118
+C00112,Rohan Sharma,rohan.sharma111@example.com,9000000111,Mumbai,2025-05-17,ERP,,rohan sharma,rohan.sharma111@example.com,9000000111,mumbai,2,CUST_0161
+C00124,Pooja Nair,pooja.nair123@example.com,9000000123,Mumbai,2026-05-04,CRM,,pooja nair,pooja.nair123@example.com,9000000123,mumbai,2,CUST_0101
+C00126,Anjali Patel,anjali.patel125@example.com,9000000125,Bangalore,2026-03-23,ERP,,anjali patel,anjali.patel125@example.com,9000000125,bangalore,2,CUST_0020
+C00131,Narendra Verma,narendra.verma130@example.com,9000000130,Mumbai,2025-12-02,Website,,narendra verma,narendra.verma130@example.com,9000000130,mumbai,2,CUST_0096
+C00139,Suresh Reddy,suresh.reddy138@example.com,9000000138,Bangalore,2025-04-21,CRM,,suresh reddy,suresh.reddy138@example.com,9000000138,bangalore,2,CUST_0181
+C00163,Rahul Patel,rahul.patel162@example.com,9000000162,Bangalore,2025-08-21,Mobile App,,rahul patel,rahul.patel162@example.com,9000000162,bangalore,2,CUST_0135
+C00167,Meera Verma,meera.verma166@example.com,9000000166,Mumbai,2026-05-06,ERP,,meera verma,meera.verma166@example.com,9000000166,mumbai,2,CUST_0084
+C00173,Anjali Gupta,anjali.gupta172@example.com,9000000172,Bangalore,2026-08-26,ERP,,anjali gupta,anjali.gupta172@example.com,9000000172,bangalore,2,CUST_0018
+C00174,Sneha Nair,sneha.nair173@example.com,9000000173,Pune,2025-03-03,CRM,,sneha nair,sneha.nair173@example.com,9000000173,pune,2,CUST_0164
+C00183,Anjali Sharma,anjali.sharma182@example.com,9000000182,Mumbai,2025-11-08,ERP,,anjali sharma,anjali.sharma182@example.com,9000000182,mumbai,2,CUST_0025
+C00184,Sneha Das,sneha.das183@example.com,9000000183,Pune,2026-05-21,ERP,,sneha das,sneha.das183@example.com,9000000183,pune,2,CUST_0162
+C00190,Ravi Gupta,ravi.gupta189@example.com,9000000189,Hyderabad,2026-04-27,Mobile App,,ravi gupta,ravi.gupta189@example.com,9000000189,hyderabad,2,CUST_0146
+C00234,Pooja Verma,pooja.verma233@example.com,9000000233,Chennai,2026-09-14,Mobile App,,pooja verma,pooja.verma233@example.com,9000000233,chennai,2,CUST_0114
+C00247,Ravi Sharma,ravi.sharma246@example.com,9000000246,Mumbai,2025-11-06,ERP,,ravi sharma,ravi.sharma246@example.com,9000000246,mumbai,2,CUST_0149
+C00248,Rahul Reddy,rahul.reddy247@example.com,9000000247,Hyderabad,2025-02-08,Mobile App,,rahul reddy,rahul.reddy247@example.com,9000000247,hyderabad,2,CUST_0138
+C00254,Amit Singh,amit.singh253@example.com,9000000253,Hyderabad,2026-01-12,Mobile App,,amit singh,amit.singh253@example.com,9000000253,hyderabad,2,CUST_0012
+C00267,Anjali Das,anjali.das266@example.com,9000000266,Chennai,2026-09-22,CRM,,anjali das,anjali.das266@example.com,9000000266,chennai,2,CUST_0015
+C00271,Meera Reddy,meera.reddy270@example.com,9000000270,Hyderabad,2025-05-10,Mobile App,,meera reddy,meera.reddy270@example.com,9000000270,hyderabad,2,CUST_0077
+C00273,Meera Das,meera.das272@example.com,9000000272,Bangalore,2026-04-10,ERP,,meera das,meera.das272@example.com,9000000272,bangalore,2,CUST_0064
+C00292,Rohan Kumar,rohan.kumar291@example.com,9000000291,Chennai,2025-06-11,CRM,,rohan kumar,rohan.kumar291@example.com,9000000291,chennai,2,CUST_0154
+C00297,Narendra Patel,narendra.patel296@example.com,9000000296,Mumbai,2026-09-06,CRM,,narendra patel,narendra.patel296@example.com,9000000296,mumbai,2,CUST_0088
+C00304,Meera Rao,meera.rao303@example.com,9000000303,Mumbai,2025-10-24,CRM,,meera rao,meera.rao303@example.com,9000000303,mumbai,2,CUST_0072
+C00306,Pooja Singh,pooja.singh305@example.com,9000000305,Hyderabad,2026-03-24,CRM,,pooja singh,pooja.singh305@example.com,9000000305,hyderabad,2,CUST_0112
+C00308,Arjun Verma,arjun.verma307@example.com,9000000307,Bangalore,2025-08-15,Mobile App,,arjun verma,arjun.verma307@example.com,9000000307,bangalore,2,CUST_0034
+C00309,Suresh Reddy,suresh.reddy308@example.com,9000000308,Hyderabad,2026-06-07,CRM,,suresh reddy,suresh.reddy308@example.com,9000000308,hyderabad,2,CUST_0182
+C00310,Vijay Das,vijay.das309@example.com,9000000309,Chennai,2025-12-24,Mobile App,,vijay das,vijay.das309@example.com,9000000309,chennai,2,CUST_0198
+C00311,Divya Reddy,divya.reddy310@example.com,9000000310,Chennai,2025-04-16,Website,,divya reddy,divya.reddy310@example.com,9000000310,chennai,2,CUST_0045
+C00313,Suresh Sharma,suresh.sharma312@example.com,9000000312,Chennai,2026-10-06,ERP,,suresh sharma,suresh.sharma312@example.com,9000000312,chennai,2,CUST_0183
+C00321,Rohan Nair,rohan.nair320@example.com,9000000320,Chennai,2025-11-26,ERP,,rohan nair,rohan.nair320@example.com,9000000320,chennai,2,CUST_0155
+C00334,Priya Patel,priya.patel333@example.com,9000000333,Bangalore,2026-05-13,Website,,priya patel,priya.patel333@example.com,9000000333,bangalore,2,CUST_0120
+C00335,Amit Reddy,amit.reddy334@example.com,9000000334,Chennai,2025-03-21,Mobile App,,amit reddy,amit.reddy334@example.com,9000000334,chennai,2,CUST_0008
+C00348,Pooja Rao,pooja.rao347@example.com,9000000347,Hyderabad,2025-08-16,ERP,,pooja rao,pooja.rao347@example.com,9000000347,hyderabad,2,CUST_0107
+C00359,Ravi Das,ravi.das358@example.com,9000000358,Pune,2025-09-05,Website,,ravi das,ravi.das358@example.com,9000000358,pune,2,CUST_0144
+C00372,Pooja Kumar,pooja.kumar371@example.com,9000000371,Bangalore,2025-10-07,CRM,,pooja kumar,pooja.kumar371@example.com,9000000371,bangalore,2,CUST_0100
+C00384,Pooja Nair,pooja.nair383@example.com,9000000383,Mumbai,2025-02-05,Website,,pooja nair,pooja.nair383@example.com,9000000383,mumbai,2,CUST_0102
+C00391,Suresh Verma,suresh.verma390@example.com,9000000390,Mumbai,2025-08-08,Mobile App,,suresh verma,suresh.verma390@example.com,9000000390,mumbai,2,CUST_0185
+C00410,Pooja Nair,pooja.nair409@example.com,9000000409,Hyderabad,2025-01-30,CRM,,pooja nair,pooja.nair409@example.com,9000000409,hyderabad,2,CUST_0103
+C00414,Anjali Patel,anjali.patel413@example.com,9000000413,Mumbai,2025-11-01,ERP,,anjali patel,anjali.patel413@example.com,9000000413,mumbai,2,CUST_0021
+C00421,Sneha Rao,sneha.rao420@example.com,9000000420,Pune,2026-03-05,Website,,sneha rao,sneha.rao420@example.com,9000000420,pune,2,CUST_0165
+C00429,Divya Singh,divya.singh428@example.com,9000000428,Mumbai,2026-01-10,CRM,,divya singh,divya.singh428@example.com,9000000428,mumbai,2,CUST_0049
+C00438,Rohan Nair,rohan.nair437@example.com,9000000437,Bangalore,2025-06-16,ERP,,rohan nair,rohan.nair437@example.com,9000000437,bangalore,2,CUST_0156
+C00442,Suresh Kumar,suresh.kumar441@example.com,9000000441,Pune,2026-05-01,Mobile App,,suresh kumar,suresh.kumar441@example.com,9000000441,pune,2,CUST_0171
+C00503,Pooja Patel,pooja.patel502@example.com,9000000502,Chennai,2026-04-17,Mobile App,,pooja patel,pooja.patel502@example.com,9000000502,chennai,3,CUST_0104
+C00505,Suresh Rao,suresh.rao504@example.com,9000000504,Pune,2025-01-17,Website,,suresh rao,suresh.rao504@example.com,9000000504,pune,2,CUST_0178
+C00509,Suresh Kumar,suresh.kumar508@example.com,9000000508,Chennai,2026-05-31,Mobile App,,suresh kumar,suresh.kumar508@example.com,9000000508,chennai,2,CUST_0172
+C00510,Amit Nair,amit.nair509@example.com,9000000509,Bangalore,2026-08-15,Mobile App,,amit nair,amit.nair509@example.com,9000000509,bangalore,2,CUST_0006
+C00526,Vijay Singh,vijay.singh525@example.com,9000000525,Bangalore,2026-01-25,ERP,,vijay singh,vijay.singh525@example.com,9000000525,bangalore,2,CUST_0204
+C00529,Suresh Singh,suresh.singh528@example.com,9000000528,Chennai,2026-01-15,Mobile App,,suresh singh,suresh.singh528@example.com,9000000528,chennai,2,CUST_0184
+C00534,Sneha Gupta,sneha.gupta533@example.com,9000000533,Mumbai,2026-04-17,Website,,sneha gupta,sneha.gupta533@example.com,9000000533,mumbai,2,CUST_0163
+C00537,Pooja Sharma,pooja.sharma536@example.com,9000000536,Hyderabad,2025-01-07,ERP,,pooja sharma,pooja.sharma536@example.com,9000000536,hyderabad,2,CUST_0110
+C00550,Ravi Kumar,ravi.kumar549@example.com,9000000549,Chennai,2025-03-26,ERP,,ravi kumar,ravi.kumar549@example.com,9000000549,chennai,2,CUST_0147
+C00569,Priya Rao,priya.rao568@example.com,9000000568,Mumbai,2026-07-25,ERP,,priya rao,priya.rao568@example.com,9000000568,mumbai,2,CUST_0122
+C00579,Arjun Singh,arjun.singh578@example.com,9000000578,Pune,2026-01-25,Mobile App,,arjun singh,arjun.singh578@example.com,9000000578,pune,2,CUST_0033
+C00582,Kiran Reddy,kiran.reddy581@example.com,9000000581,Mumbai,2025-11-23,Mobile App,,kiran reddy,kiran.reddy581@example.com,9000000581,mumbai,2,CUST_0059
+C00584,Arjun Verma,arjun.verma583@example.com,9000000583,Mumbai,2026-01-09,CRM,,arjun verma,arjun.verma583@example.com,9000000583,mumbai,2,CUST_0035
+C00585,Rohan Nair,rohan.nair584@example.com,9000000584,Chennai,2026-08-30,Website,,rohan nair,rohan.nair584@example.com,9000000584,chennai,2,CUST_0157
+C00588,Priya Verma,priya.verma587@example.com,9000000587,Chennai,2025-09-16,Website,,priya verma,priya.verma587@example.com,9000000587,chennai,2,CUST_0131
+C00622,Arjun Gupta,arjun.gupta621@example.com,9000000621,Mumbai,2025-06-21,CRM,,arjun gupta,arjun.gupta621@example.com,9000000621,mumbai,2,CUST_0027
+C00629,Anjali Verma,anjali.verma628@example.com,9000000628,Bangalore,2025-03-31,ERP,,anjali verma,anjali.verma628@example.com,9000000628,bangalore,2,CUST_0026
+C00642,Meera Kumar,meera.kumar641@example.com,9000000641,Hyderabad,2026-04-15,Mobile App,,meera kumar,meera.kumar641@example.com,9000000641,hyderabad,2,CUST_0067
+C00649,Divya Reddy,divya.reddy648@example.com,9000000648,Bangalore,2025-06-12,Mobile App,,divya reddy,divya.reddy648@example.com,9000000648,bangalore,2,CUST_0046
+C00652,Divya Patel,divya.patel651@example.com,9000000651,Mumbai,2026-11-03,CRM,,divya patel,divya.patel651@example.com,9000000651,mumbai,2,CUST_0042
+C00656,Divya Reddy,divya.reddy655@example.com,9000000655,Mumbai,2025-03-14,Website,,divya reddy,divya.reddy655@example.com,9000000655,mumbai,2,CUST_0047
+C00661,Ravi Reddy,ravi.reddy660@example.com,9000000660,Mumbai,2026-09-23,ERP,,ravi reddy,ravi.reddy660@example.com,9000000660,mumbai,2,CUST_0148
+C00662,Pooja Patel,pooja.patel661@example.com,9000000661,Hyderabad,2025-04-13,Website,,pooja patel,pooja.patel661@example.com,9000000661,hyderabad,2,CUST_0105
+C00666,Suresh Kumar,suresh.kumar665@example.com,9000000665,Bangalore,2025-07-30,Website,,suresh kumar,suresh.kumar665@example.com,9000000665,bangalore,2,CUST_0173
+C00674,Ravi Das,ravi.das673@example.com,9000000673,Mumbai,2026-03-10,ERP,,ravi das,ravi.das673@example.com,9000000673,mumbai,2,CUST_0145
+C00689,Amit Das,amit.das688@example.com,9000000688,Hyderabad,2025-02-15,CRM,,amit das,amit.das688@example.com,9000000688,hyderabad,2,CUST_0003
+C00700,Priya Kumar,priya.kumar699@example.com,9000000699,Mumbai,2025-01-25,Website,,priya kumar,priya.kumar699@example.com,9000000699,mumbai,2,CUST_0119
+C00718,Sneha Reddy,sneha.reddy717@example.com,9000000717,Hyderabad,2026-02-19,ERP,,sneha reddy,sneha.reddy717@example.com,9000000717,hyderabad,2,CUST_0166
+C00720,Rahul Reddy,rahul.reddy719@example.com,9000000719,Hyderabad,2025-01-13,CRM,,rahul reddy,rahul.reddy719@example.com,9000000719,hyderabad,2,CUST_0139
+C00721,Pooja Patel,pooja.patel720@example.com,9000000720,Chennai,2025-07-22,ERP,,pooja patel,pooja.patel720@example.com,9000000720,chennai,2,CUST_0106
+C00728,Amit Reddy,amit.reddy727@example.com,9000000727,Bangalore,2025-10-14,ERP,,amit reddy,amit.reddy727@example.com,9000000727,bangalore,2,CUST_0009
+C00735,Sneha Reddy,sneha.reddy734@example.com,9000000734,Hyderabad,2025-11-23,Website,,sneha reddy,sneha.reddy734@example.com,9000000734,hyderabad,2,CUST_0167
+C00745,Meera Patel,meera.patel744@example.com,9000000744,Hyderabad,2026-06-24,ERP,,meera patel,meera.patel744@example.com,9000000744,hyderabad,2,CUST_0069
+C00766,Narendra Singh,narendra.singh765@example.com,9000000765,Bangalore,2025-04-18,CRM,,narendra singh,narendra.singh765@example.com,9000000765,bangalore,2,CUST_0093
+C00767,Kiran Reddy,kiran.reddy766@example.com,9000000766,Mumbai,2025-06-14,CRM,,kiran reddy,kiran.reddy766@example.com,9000000766,mumbai,2,CUST_0060
+C00783,Suresh Nair,suresh.nair782@example.com,9000000782,Chennai,2026-07-21,CRM,,suresh nair,suresh.nair782@example.com,9000000782,chennai,2,CUST_0174
+C00794,Rahul Rao,rahul.rao793@example.com,9000000793,Chennai,2025-06-01,CRM,,rahul rao,rahul.rao793@example.com,9000000793,chennai,2,CUST_0137
+C00796,Pooja Das,pooja.das795@example.com,9000000795,Bangalore,2026-02-25,Mobile App,,pooja das,pooja.das795@example.com,9000000795,bangalore,2,CUST_0097
+C00809,Priya Patel,priya.patel808@example.com,9000000808,Chennai,2025-03-01,Website,,priya patel,priya.patel808@example.com,9000000808,chennai,2,CUST_0121
+C00813,Anjali Nair,anjali.nair812@example.com,9000000812,Mumbai,2025-07-01,ERP,,anjali nair,anjali.nair812@example.com,9000000812,mumbai,2,CUST_0019
+C00823,Meera Sharma,meera.sharma822@example.com,9000000822,Hyderabad,2026-06-08,Mobile App,,meera sharma,meera.sharma822@example.com,9000000822,hyderabad,2,CUST_0079
+C00835,Anjali Reddy,anjali.reddy834@example.com,9000000834,Bangalore,2026-07-27,Website,,anjali reddy,anjali.reddy834@example.com,9000000834,bangalore,2,CUST_0024
+C00844,Kiran Reddy,kiran.reddy843@example.com,9000000843,Bangalore,2026-10-12,CRM,,kiran reddy,kiran.reddy843@example.com,9000000843,bangalore,2,CUST_0061
+C00846,Meera Reddy,meera.reddy845@example.com,9000000845,Mumbai,2025-04-01,Website,,meera reddy,meera.reddy845@example.com,9000000845,mumbai,2,CUST_0078
+C00847,Meera Rao,meera.rao846@example.com,9000000846,Mumbai,2026-02-18,ERP,,meera rao,meera.rao846@example.com,9000000846,mumbai,2,CUST_0073
+C00849,Divya Singh,divya.singh848@example.com,9000000848,Hyderabad,2025-11-26,Website,,divya singh,divya.singh848@example.com,9000000848,hyderabad,2,CUST_0050
+C00852,Priya Sharma,priya.sharma851@example.com,9000000851,Hyderabad,2025-11-02,Mobile App,,priya sharma,priya.sharma851@example.com,9000000851,hyderabad,2,CUST_0129
+C00853,Anjali Das,anjali.das852@example.com,9000000852,Pune,2026-06-21,Mobile App,,anjali das,anjali.das852@example.com,9000000852,pune,2,CUST_0017
+C00854,Arjun Reddy,arjun.reddy853@example.com,9000000853,Bangalore,2026-05-17,Mobile App,,arjun reddy,arjun.reddy853@example.com,9000000853,bangalore,2,CUST_0031
+C00865,Vijay Nair,vijay.nair864@example.com,9000000864,Hyderabad,2025-10-17,CRM,,vijay nair,vijay.nair864@example.com,9000000864,hyderabad,2,CUST_0201
+C00875,Pooja Verma,pooja.verma874@example.com,9000000874,Bangalore,2025-11-17,ERP,,pooja verma,pooja.verma874@example.com,9000000874,bangalore,2,CUST_0115
+C00881,Suresh Rao,suresh.rao880@example.com,9000000880,Chennai,2025-04-26,Website,,suresh rao,suresh.rao880@example.com,9000000880,chennai,2,CUST_0179
+C00885,Pooja Reddy,pooja.reddy884@example.com,9000000884,Mumbai,2026-05-15,CRM,,pooja reddy,pooja.reddy884@example.com,9000000884,mumbai,2,CUST_0108
+C00886,Rohan Rao,rohan.rao885@example.com,9000000885,Mumbai,2025-02-17,CRM,,rohan rao,rohan.rao885@example.com,9000000885,mumbai,2,CUST_0160
+C00893,Amit Singh,amit.singh892@example.com,9000000892,Bangalore,2025-02-21,Website,,amit singh,amit.singh892@example.com,9000000892,bangalore,2,CUST_0013
+C00896,Pooja Gupta,pooja.gupta895@example.com,9000000895,Mumbai,2025-11-20,CRM,,pooja gupta,pooja.gupta895@example.com,9000000895,mumbai,2,CUST_0098
+C00900,Rohan Das,rohan.das899@example.com,9000000899,Pune,2025-07-31,ERP,,rohan das,rohan.das899@example.com,9000000899,pune,2,CUST_0152
+C00905,Pooja Verma,pooja.verma904@example.com,9000000904,Pune,2026-06-19,Mobile App,,pooja verma,pooja.verma904@example.com,9000000904,pune,2,CUST_0116
+C00907,Priya Rao,priya.rao906@example.com,9000000906,Hyderabad,2025-09-18,Website,,priya rao,priya.rao906@example.com,9000000906,hyderabad,2,CUST_0123
+C00914,Divya Nair,divya.nair913@example.com,9000000913,Chennai,2025-05-12,CRM,,divya nair,divya.nair913@example.com,9000000913,chennai,2,CUST_0040
+C00919,Divya Das,divya.das918@example.com,9000000918,Chennai,2025-07-25,Website,,divya das,divya.das918@example.com,9000000918,chennai,2,CUST_0037
+C00929,Amit Das,amit.das928@example.com,9000000928,Bangalore,2026-11-12,CRM,,amit das,amit.das928@example.com,9000000928,bangalore,2,CUST_0004
+C00937,Priya Reddy,priya.reddy936@example.com,9000000936,Pune,2025-09-19,CRM,,priya reddy,priya.reddy936@example.com,9000000936,pune,2,CUST_0126
+C00943,Vijay Das,vijay.das942@example.com,9000000942,Mumbai,2025-04-05,Mobile App,,vijay das,vijay.das942@example.com,9000000942,mumbai,2,CUST_0199
+C00962,Rohan Das,rohan.das961@example.com,9000000961,Hyderabad,2025-10-24,Mobile App,,rohan das,rohan.das961@example.com,9000000961,hyderabad,2,CUST_0153
+C00970,Priya Reddy,priya.reddy969@example.com,9000000969,Chennai,2026-09-24,Mobile App,,priya reddy,priya.reddy969@example.com,9000000969,chennai,2,CUST_0127
+C00976,Rohan Patel,rohan.patel975@example.com,9000000975,Bangalore,2026-05-13,ERP,,rohan patel,rohan.patel975@example.com,9000000975,bangalore,2,CUST_0158
+C00995,Suresh Gupta,suresh.gupta994@example.com,9000000994,Chennai,2025-03-06,Mobile App,,suresh gupta,suresh.gupta994@example.com,9000000994,chennai,2,CUST_0169
+C00996,Kiran Patel,kiran.patel995@example.com,9000000995,Hyderabad,2025-07-31,Mobile App,,kiran patel,kiran.patel995@example.com,9000000995,hyderabad,2,CUST_0057
+C01010,Ravi Das,ravi.das1009@example.com,9000001009,Hyderabad,2026-08-10,Website,,ravi das,ravi.das1009@example.com,9000001009,hyderabad,2,CUST_0142
+C01015,Meera Reddy,meera.reddy1014@example.com,9000001014,Pune,2025-07-06,Mobile App,,meera reddy,meera.reddy1014@example.com,9000001014,pune,2,CUST_0074
+C01032,Meera Verma,meera.verma1031@example.com,9000001031,Mumbai,2025-07-28,ERP,,meera verma,meera.verma1031@example.com,9000001031,mumbai,2,CUST_0083
+C01034,Vijay Das,vijay.das1033@example.com,9000001033,Mumbai,2025-09-17,Mobile App,,vijay das,vijay.das1033@example.com,9000001033,mumbai,2,CUST_0197
+C01035,Meera Singh,meera.singh1034@example.com,9000001034,Mumbai,2025-05-22,CRM,,meera singh,meera.singh1034@example.com,9000001034,mumbai,2,CUST_0080
+C01050,Kiran Verma,kiran.verma1049@example.com,9000001049,Chennai,2026-09-13,Website,,kiran verma,kiran.verma1049@example.com,9000001049,chennai,2,CUST_0062
+C01069,Anjali Reddy,anjali.reddy1068@example.com,9000001068,Pune,2025-10-14,ERP,,anjali reddy,anjali.reddy1068@example.com,9000001068,pune,2,CUST_0023
+C01070,Amit Nair,amit.nair1069@example.com,9000001069,Chennai,2025-02-25,ERP,,amit nair,amit.nair1069@example.com,9000001069,chennai,2,CUST_0005
+C01098,Arjun Reddy,arjun.reddy1097@example.com,9000001097,Chennai,2025-01-24,Website,,arjun reddy,arjun.reddy1097@example.com,9000001097,chennai,2,CUST_0030
+C01129,Divya Kumar,divya.kumar1128@example.com,9000001128,Bangalore,2025-03-24,Website,,divya kumar,divya.kumar1128@example.com,9000001128,bangalore,2,CUST_0038
+C01139,Kiran Kumar,kiran.kumar1138@example.com,9000001138,Chennai,2025-10-10,CRM,,kiran kumar,kiran.kumar1138@example.com,9000001138,chennai,2,CUST_0052
+C01152,Pooja Verma,pooja.verma1151@example.com,9000001151,Pune,2026-01-11,ERP,,pooja verma,pooja.verma1151@example.com,9000001151,pune,2,CUST_0113
+C01154,Meera Singh,meera.singh1153@example.com,9000001153,Pune,2025-09-02,Mobile App,,meera singh,meera.singh1153@example.com,9000001153,pune,2,CUST_0081
+C01159,Pooja Kumar,pooja.kumar1158@example.com,9000001158,Chennai,2025-04-20,ERP,,pooja kumar,pooja.kumar1158@example.com,9000001158,chennai,2,CUST_0099
+C01162,Narendra Singh,narendra.singh1161@example.com,9000001161,Chennai,2026-09-13,CRM,,narendra singh,narendra.singh1161@example.com,9000001161,chennai,2,CUST_0092
+C01164,Suresh Kumar,suresh.kumar1163@example.com,9000001163,Bangalore,2026-07-26,ERP,,suresh kumar,suresh.kumar1163@example.com,9000001163,bangalore,2,CUST_0170
+C01168,Vijay Rao,vijay.rao1167@example.com,9000001167,Chennai,2025-07-17,Website,,vijay rao,vijay.rao1167@example.com,9000001167,chennai,2,CUST_0202
+C01175,Pooja Singh,pooja.singh1174@example.com,9000001174,Pune,2025-09-04,Website,,pooja singh,pooja.singh1174@example.com,9000001174,pune,2,CUST_0111
+C01177,Anjali Rao,anjali.rao1176@example.com,9000001176,Hyderabad,2025-02-05,Mobile App,,anjali rao,anjali.rao1176@example.com,9000001176,hyderabad,2,CUST_0022
+C01180,Narendra Verma,narendra.verma1179@example.com,9000001179,Pune,2026-06-08,Website,,narendra verma,narendra.verma1179@example.com,9000001179,pune,2,CUST_0094
+C01182,Priya Verma,priya.verma1181@example.com,9000001181,Bangalore,2026-08-20,Website,,priya verma,priya.verma1181@example.com,9000001181,bangalore,2,CUST_0130
+C01199,Rahul Verma,rahul.verma1198@example.com,9000001198,Mumbai,2025-11-28,CRM,,rahul verma,rahul.verma1198@example.com,9000001198,mumbai,2,CUST_0141
+C01203,Meera Reddy,meera.reddy1202@example.com,9000001202,Mumbai,2025-02-15,Website,,meera reddy,meera.reddy1202@example.com,9000001202,mumbai,2,CUST_0075
+C01204,Amit Singh,amit.singh1203@example.com,9000001203,Chennai,2025-03-29,CRM,,amit singh,amit.singh1203@example.com,9000001203,chennai,2,CUST_0011
+C01205,Divya Kumar,divya.kumar1204@example.com,9000001204,Chennai,2026-09-28,Website,,divya kumar,divya.kumar1204@example.com,9000001204,chennai,3,CUST_0039
+C01208,Amit Das,amit.das1207@example.com,9000001207,Chennai,2025-07-28,Mobile App,,amit das,amit.das1207@example.com,9000001207,chennai,2,CUST_0001
+C01213,Ravi Verma,ravi.verma1212@example.com,9000001212,Bangalore,2025-04-21,CRM,,ravi verma,ravi.verma1212@example.com,9000001212,bangalore,2,CUST_0150
+C01217,Narendra Patel,narendra.patel1216@example.com,9000001216,Pune,2025-11-09,Mobile App,,narendra patel,narendra.patel1216@example.com,9000001216,pune,3,CUST_0086
+C01229,Rahul Das,rahul.das1228@example.com,9000001228,Pune,2025-05-02,Website,,rahul das,rahul.das1228@example.com,9000001228,pune,2,CUST_0132
+C01230,Kiran Reddy,kiran.reddy1229@example.com,9000001229,Hyderabad,2025-11-23,ERP,,kiran reddy,kiran.reddy1229@example.com,9000001229,hyderabad,2,CUST_0058
+C01233,Narendra Nair,narendra.nair1232@example.com,9000001232,Pune,2025-10-01,Website,,narendra nair,narendra.nair1232@example.com,9000001232,pune,2,CUST_0085
+C01258,Meera Reddy,meera.reddy1257@example.com,9000001257,Chennai,2025-05-29,Website,,meera reddy,meera.reddy1257@example.com,9000001257,chennai,2,CUST_0076
+C01265,Amit Das,amit.das1264@example.com,9000001264,Bangalore,2026-09-27,Website,,amit das,amit.das1264@example.com,9000001264,bangalore,2,CUST_0002
+C01283,Narendra Patel,narendra.patel1282@example.com,9000001282,Bangalore,2025-09-18,CRM,,narendra patel,narendra.patel1282@example.com,9000001282,bangalore,2,CUST_0087
+C01294,Ravi Das,ravi.das1293@example.com,9000001293,Chennai,2026-08-08,ERP,,ravi das,ravi.das1293@example.com,9000001293,chennai,2,CUST_0143
+C01299,Kiran Kumar,kiran.kumar1298@example.com,9000001298,Chennai,2025-04-05,ERP,,kiran kumar,kiran.kumar1298@example.com,9000001298,chennai,2,CUST_0053
+C01304,Narendra Verma,narendra.verma1303@example.com,9000001303,Hyderabad,2026-09-01,CRM,,narendra verma,narendra.verma1303@example.com,9000001303,hyderabad,2,CUST_0095
+C01307,Kiran Patel,kiran.patel1306@example.com,9000001306,Chennai,2025-10-21,Mobile App,,kiran patel,kiran.patel1306@example.com,9000001306,chennai,2,CUST_0055
+C01309,Priya Reddy,priya.reddy1308@example.com,9000001308,Bangalore,2025-04-28,CRM,,priya reddy,priya.reddy1308@example.com,9000001308,bangalore,2,CUST_0124
+C01314,Narendra Reddy,narendra.reddy1313@example.com,9000001313,Hyderabad,2026-04-28,CRM,,narendra reddy,narendra.reddy1313@example.com,9000001313,hyderabad,2,CUST_0089
+C01319,Rahul Gupta,rahul.gupta1318@example.com,9000001318,Hyderabad,2026-04-12,Mobile App,,rahul gupta,rahul.gupta1318@example.com,9000001318,hyderabad,2,CUST_0134
+C01326,Arjun Sharma,arjun.sharma1325@example.com,9000001325,Bangalore,2026-07-24,CRM,,arjun sharma,arjun.sharma1325@example.com,9000001325,bangalore,2,CUST_0032
+C01328,Meera Rao,meera.rao1327@example.com,9000001327,Chennai,2026-09-28,Website,,meera rao,meera.rao1327@example.com,9000001327,chennai,2,CUST_0070
+C01374,Priya Das,priya.das1373@example.com,9000001373,Hyderabad,2025-12-18,CRM,,priya das,priya.das1373@example.com,9000001373,hyderabad,2,CUST_0117
+C01376,Suresh Rao,suresh.rao1375@example.com,9000001375,Chennai,2026-11-08,ERP,,suresh rao,suresh.rao1375@example.com,9000001375,chennai,2,CUST_0176
+C01380,Divya Das,divya.das1379@example.com,9000001379,Chennai,2026-01-24,ERP,,divya das,divya.das1379@example.com,9000001379,chennai,2,CUST_0036
+C01410,Kiran Verma,kiran.verma1409@example.com,9000001409,Mumbai,2025-02-26,CRM,,kiran verma,kiran.verma1409@example.com,9000001409,mumbai,2,CUST_0063
+C01415,Divya Patel,divya.patel1414@example.com,9000001414,Chennai,2025-02-06,Website,,divya patel,divya.patel1414@example.com,9000001414,chennai,3,CUST_0041
+C01417,Rahul Das,rahul.das1416@example.com,9000001416,Bangalore,2026-05-27,ERP,,rahul das,rahul.das1416@example.com,9000001416,bangalore,2,CUST_0133
+C01429,Kiran Patel,kiran.patel1428@example.com,9000001428,Hyderabad,2026-08-31,Website,,kiran patel,kiran.patel1428@example.com,9000001428,hyderabad,2,CUST_0056
+C01431,Suresh Rao,suresh.rao1430@example.com,9000001430,Chennai,2026-01-14,Website,,suresh rao,suresh.rao1430@example.com,9000001430,chennai,2,CUST_0177
+C01435,Priya Sharma,priya.sharma1434@example.com,9000001434,Pune,2025-10-18,ERP,,priya sharma,priya.sharma1434@example.com,9000001434,pune,2,CUST_0128
+C01443,Suresh Patel,suresh.patel1442@example.com,9000001442,Bangalore,2025-02-24,Website,,suresh patel,suresh.patel1442@example.com,9000001442,bangalore,2,CUST_0175
+C01449,Anjali Das,anjali.das1448@example.com,9000001448,Hyderabad,2025-03-14,Website,,anjali das,anjali.das1448@example.com,9000001448,hyderabad,2,CUST_0014
+C01451,Arjun Patel,arjun.patel1450@example.com,9000001450,Bangalore,2025-08-24,CRM,,arjun patel,arjun.patel1450@example.com,9000001450,bangalore,2,CUST_0029
+C01463,Meera Gupta,meera.gupta1462@example.com,9000001462,Mumbai,2025-10-13,CRM,,meera gupta,meera.gupta1462@example.com,9000001462,mumbai,2,CUST_0066
+C01465,Arjun Nair,arjun.nair1464@example.com,9000001464,Chennai,2026-08-29,Website,,arjun nair,arjun.nair1464@example.com,9000001464,chennai,2,CUST_0028
+C01470,Divya Rao,divya.rao1469@example.com,9000001469,Chennai,2025-05-16,Mobile App,,divya rao,divya.rao1469@example.com,9000001469,chennai,2,CUST_0043
+C01475,Pooja Sharma,pooja.sharma1474@example.com,9000001474,Mumbai,2025-12-07,CRM,,pooja sharma,pooja.sharma1474@example.com,9000001474,mumbai,2,CUST_0109
+C01478,Vijay Singh,vijay.singh1477@example.com,9000001477,Hyderabad,2025-04-24,ERP,,vijay singh,vijay.singh1477@example.com,9000001477,hyderabad,2,CUST_0203
+C01489,Rahul Sharma,rahul.sharma1488@example.com,9000001488,Chennai,2025-10-10,CRM,,rahul sharma,rahul.sharma1488@example.com,9000001488,chennai,2,CUST_0140
+C01533,Divya Sharma,divya.sharma1532@example.com,9000001532,Bangalore,2026-06-09,CRM,,divya sharma,divya.sharma1532@example.com,9000001532,bangalore,2,CUST_0048
+C01542,Narendra Reddy,narendra.reddy1541@example.com,9000001541,Pune,2025-10-16,Mobile App,,narendra reddy,narendra.reddy1541@example.com,9000001541,pune,2,CUST_0090
+C01550,Priya Reddy,priya.reddy1549@example.com,9000001549,Chennai,2025-11-11,Website,,priya reddy,priya.reddy1549@example.com,9000001549,chennai,2,CUST_0125
+C01561,Rohan Das,rohan.das1560@example.com,9000001560,Hyderabad,2025-04-12,Website,,rohan das,rohan.das1560@example.com,9000001560,hyderabad,3,CUST_0151
+C01584,Suresh Gupta,suresh.gupta1583@example.com,9000001583,Chennai,2025-10-28,ERP,,suresh gupta,suresh.gupta1583@example.com,9000001583,chennai,2,CUST_0168
+C01595,Meera Singh,meera.singh1594@example.com,9000001594,Bangalore,2025-11-25,CRM,,meera singh,meera.singh1594@example.com,9000001594,bangalore,2,CUST_0082
+C01597,Kiran Nair,kiran.nair1596@example.com,9000001596,Hyderabad,2026-10-03,Mobile App,,kiran nair,kiran.nair1596@example.com,9000001596,hyderabad,2,CUST_0054
+C01601,Kiran Verma,kiran.verma1409@example.com,9000001409,Mumbai,2025-03-09,Mobile App,,kiran verma,kiran.verma1409@example.com,9000001409,mumbai,2,CUST_0063
+C01602,Amit P,updated_amit.patel234@example.com,9000000234,Pune,2025-12-12,Website,,amit p,updated_amit.patel234@example.com,9000000234,pune,2,CUST_0186
+C01603,Anjali Das,anjali.das40@example.com,9000000040,Mumbai,2026-07-06,Mobile App,,anjali das,anjali.das40@example.com,9000000040,mumbai,3,CUST_0016
+C01605,Suresh Kumar,suresh.kumar1163@example.com,9000001163,Bangalore,2026-06-12,ERP,,suresh kumar,suresh.kumar1163@example.com,9000001163,bangalore,2,CUST_0170
+C01606,Anjali N,updated_anjali.nair546@example.com,9000000546,Chennai,2025-01-21,ERP,,anjali n,updated_anjali.nair546@example.com,9000000546,chennai,2,CUST_0189
+C01607,Divya Kumar,divya.kumar1204@example.com,9000001204,Chennai,2025-01-23,Mobile App,,divya kumar,divya.kumar1204@example.com,9000001204,chennai,3,CUST_0039
+C01609,Ravi Reddy,ravi.reddy660@example.com,9000000660,Mumbai,2026-08-10,CRM,,ravi reddy,ravi.reddy660@example.com,9000000660,mumbai,2,CUST_0148
+C01611,Amit Das,amit.das688@example.com,9000000688,Hyderabad,2026-05-24,Mobile App,,amit das,amit.das688@example.com,9000000688,hyderabad,2,CUST_0003
+C01613,Meera Patel,meera.patel744@example.com,9000000744,Hyderabad,2026-03-23,Website,,meera patel,meera.patel744@example.com,9000000744,hyderabad,2,CUST_0069
+C01615,Arjun Reddy,arjun.reddy1097@example.com,9000001097,Chennai,2025-08-08,Mobile App,,arjun reddy,arjun.reddy1097@example.com,9000001097,chennai,2,CUST_0030
+C01617,Pooja Singh,pooja.singh1174@example.com,9000001174,Pune,2026-02-16,Website,,pooja singh,pooja.singh1174@example.com,9000001174,pune,2,CUST_0111
+C01618,Divya V,updated_divya.verma1279@example.com,9000001279,Chennai,2025-04-05,CRM,,divya v,updated_divya.verma1279@example.com,9000001279,chennai,2,CUST_0192
+C01619,Ravi Verma,ravi.verma1212@example.com,9000001212,Bangalore,2025-12-11,Mobile App,,ravi verma,ravi.verma1212@example.com,9000001212,bangalore,2,CUST_0150
+C01621,Pooja Verma,pooja.verma874@example.com,9000000874,Bangalore,2025-08-03,Mobile App,,pooja verma,pooja.verma874@example.com,9000000874,bangalore,2,CUST_0115
+C01623,Vijay Das,vijay.das1033@example.com,9000001033,Mumbai,2025-11-04,ERP,,vijay das,vijay.das1033@example.com,9000001033,mumbai,2,CUST_0197
+C01625,Pooja Nair,pooja.nair409@example.com,9000000409,Hyderabad,2026-03-01,ERP,,pooja nair,pooja.nair409@example.com,9000000409,hyderabad,2,CUST_0103
+C01627,Suresh Rao,suresh.rao1375@example.com,9000001375,Chennai,2026-07-15,Website,,suresh rao,suresh.rao1375@example.com,9000001375,chennai,2,CUST_0176
+C01628,Vijay N,updated_vijay.nair38@example.com,9000000038,Mumbai,2026-10-05,Website,,vijay n,updated_vijay.nair38@example.com,9000000038,mumbai,3,CUST_0196
+C01629,Priya Verma,priya.verma1181@example.com,9000001181,Bangalore,2026-05-27,Website,,priya verma,priya.verma1181@example.com,9000001181,bangalore,2,CUST_0130
+C01630,Anjali D,updated_anjali.das1353@example.com,9000001353,Mumbai,2026-04-24,Mobile App,,anjali d,updated_anjali.das1353@example.com,9000001353,mumbai,2,CUST_0188
+C01631,Kiran Patel,kiran.patel1306@example.com,9000001306,Chennai,2026-06-30,ERP,,kiran patel,kiran.patel1306@example.com,9000001306,chennai,2,CUST_0055
+C01633,Amit Nair,amit.nair1069@example.com,9000001069,Chennai,2025-07-25,Mobile App,,amit nair,amit.nair1069@example.com,9000001069,chennai,2,CUST_0005
+C01635,Suresh Reddy,suresh.reddy308@example.com,9000000308,Hyderabad,2025-11-04,ERP,,suresh reddy,suresh.reddy308@example.com,9000000308,hyderabad,2,CUST_0182
+C01637,Kiran Kumar,kiran.kumar1298@example.com,9000001298,Chennai,2025-07-28,ERP,,kiran kumar,kiran.kumar1298@example.com,9000001298,chennai,2,CUST_0053
+C01638,Anjali N,updated_anjali.nair546@example.com,9000000546,Chennai,2025-10-21,Website,,anjali n,updated_anjali.nair546@example.com,9000000546,chennai,2,CUST_0189
+C01639,Vijay Singh,vijay.singh525@example.com,9000000525,Bangalore,2026-09-08,Website,,vijay singh,vijay.singh525@example.com,9000000525,bangalore,2,CUST_0204
+C01641,Arjun Verma,arjun.verma307@example.com,9000000307,Bangalore,2025-07-16,CRM,,arjun verma,arjun.verma307@example.com,9000000307,bangalore,2,CUST_0034
+C01642,Pooja P,updated_pooja.patel502@example.com,9000000502,Chennai,2025-11-14,ERP,,pooja p,updated_pooja.patel502@example.com,9000000502,chennai,2,CUST_0193
+C01643,Suresh Gupta,suresh.gupta994@example.com,9000000994,Chennai,2026-07-28,ERP,,suresh gupta,suresh.gupta994@example.com,9000000994,chennai,2,CUST_0169
+C01645,Anjali Patel,anjali.patel413@example.com,9000000413,Mumbai,2025-06-13,Mobile App,,anjali patel,anjali.patel413@example.com,9000000413,mumbai,2,CUST_0021
+C01647,Priya Rao,priya.rao568@example.com,9000000568,Mumbai,2026-11-06,Website,,priya rao,priya.rao568@example.com,9000000568,mumbai,2,CUST_0122
+C01649,Anjali Das,anjali.das40@example.com,9000000040,Mumbai,2025-02-26,CRM,,anjali das,anjali.das40@example.com,9000000040,mumbai,3,CUST_0016
+C01651,Narendra Verma,narendra.verma130@example.com,9000000130,Mumbai,2026-02-21,Mobile App,,narendra verma,narendra.verma130@example.com,9000000130,mumbai,2,CUST_0096
+C01653,Anjali Nair,anjali.nair812@example.com,9000000812,Mumbai,2025-05-24,Website,,anjali nair,anjali.nair812@example.com,9000000812,mumbai,2,CUST_0019
+C01655,Anjali Reddy,anjali.reddy1068@example.com,9000001068,Pune,2026-11-12,Mobile App,,anjali reddy,anjali.reddy1068@example.com,9000001068,pune,2,CUST_0023
+C01657,Rahul Das,rahul.das1228@example.com,9000001228,Pune,2025-05-06,Mobile App,,rahul das,rahul.das1228@example.com,9000001228,pune,2,CUST_0132
+C01658,Rahul D,updated_rahul.das674@example.com,9000000674,Pune,2026-08-22,ERP,,rahul d,updated_rahul.das674@example.com,9000000674,pune,2,CUST_0194
+C01659,Divya Sharma,divya.sharma1532@example.com,9000001532,Bangalore,2025-08-30,ERP,,divya sharma,divya.sharma1532@example.com,9000001532,bangalore,2,CUST_0048
+C01661,Ravi Das,ravi.das358@example.com,9000000358,Pune,2025-08-08,Mobile App,,ravi das,ravi.das358@example.com,9000000358,pune,2,CUST_0144
+C01663,Amit Das,amit.das1207@example.com,9000001207,Chennai,2025-02-27,ERP,,amit das,amit.das1207@example.com,9000001207,chennai,2,CUST_0001
+C01665,Divya Reddy,divya.reddy648@example.com,9000000648,Bangalore,2026-07-13,ERP,,divya reddy,divya.reddy648@example.com,9000000648,bangalore,2,CUST_0046
+C01667,Narendra Patel,narendra.patel296@example.com,9000000296,Mumbai,2026-01-07,ERP,,narendra patel,narendra.patel296@example.com,9000000296,mumbai,2,CUST_0088
+C01669,Amit Sharma,amit.sharma43@example.com,9000000043,Hyderabad,2026-10-23,CRM,,amit sharma,amit.sharma43@example.com,9000000043,hyderabad,2,CUST_0010
+C01671,Divya Patel,divya.patel1414@example.com,9000001414,Chennai,2025-09-03,Mobile App,,divya patel,divya.patel1414@example.com,9000001414,chennai,3,CUST_0041
+C01673,Priya Reddy,priya.reddy1308@example.com,9000001308,Bangalore,2026-01-07,CRM,,priya reddy,priya.reddy1308@example.com,9000001308,bangalore,2,CUST_0124
+C01675,Pooja Das,pooja.das795@example.com,9000000795,Bangalore,2025-01-09,ERP,,pooja das,pooja.das795@example.com,9000000795,bangalore,2,CUST_0097
+C01676,Amit P,updated_amit.patel523@example.com,9000000523,Hyderabad,2025-11-05,CRM,,amit p,updated_amit.patel523@example.com,9000000523,hyderabad,2,CUST_0187
+C01677,Priya Reddy,priya.reddy1549@example.com,9000001549,Chennai,2025-08-30,Mobile App,,priya reddy,priya.reddy1549@example.com,9000001549,chennai,2,CUST_0125
+C01679,Ravi Das,ravi.das1293@example.com,9000001293,Chennai,2025-11-21,ERP,,ravi das,ravi.das1293@example.com,9000001293,chennai,2,CUST_0143
+C01681,Kiran Nair,kiran.nair1596@example.com,9000001596,Hyderabad,2026-05-19,ERP,,kiran nair,kiran.nair1596@example.com,9000001596,hyderabad,2,CUST_0054
+C01682,Sneha K,updated_sneha.kumar1509@example.com,9000001509,Mumbai,2026-02-27,Mobile App,,sneha k,updated_sneha.kumar1509@example.com,9000001509,mumbai,2,CUST_0195
+C01683,Divya Rao,divya.rao1469@example.com,9000001469,Chennai,2026-03-09,CRM,,divya rao,divya.rao1469@example.com,9000001469,chennai,2,CUST_0043
+C01685,Pooja Patel,pooja.patel720@example.com,9000000720,Chennai,2026-03-07,Mobile App,,pooja patel,pooja.patel720@example.com,9000000720,chennai,2,CUST_0106
+C01687,Narendra Reddy,narendra.reddy1313@example.com,9000001313,Hyderabad,2026-10-19,Website,,narendra reddy,narendra.reddy1313@example.com,9000001313,hyderabad,2,CUST_0089
+C01689,Divya Rao,divya.rao6@example.com,9000000006,Bangalore,2026-02-15,Website,,divya rao,divya.rao6@example.com,9000000006,bangalore,2,CUST_0044
+C01691,Narendra Verma,narendra.verma1179@example.com,9000001179,Pune,2025-03-26,CRM,,narendra verma,narendra.verma1179@example.com,9000001179,pune,2,CUST_0094
+C01693,Narendra Patel,narendra.patel1216@example.com,9000001216,Pune,2026-02-25,Mobile App,,narendra patel,narendra.patel1216@example.com,9000001216,pune,3,CUST_0086
+C01695,Sneha Gupta,sneha.gupta533@example.com,9000000533,Mumbai,2025-06-27,Mobile App,,sneha gupta,sneha.gupta533@example.com,9000000533,mumbai,2,CUST_0163
+C01697,Divya Singh,divya.singh848@example.com,9000000848,Hyderabad,2026-01-12,Website,,divya singh,divya.singh848@example.com,9000000848,hyderabad,2,CUST_0050
+C01699,Meera Patel,meera.patel42@example.com,9000000042,Hyderabad,2025-01-24,Website,,meera patel,meera.patel42@example.com,9000000042,hyderabad,2,CUST_0068
+C01700,Anjali S,updated_anjali.sharma182@example.com,9000000182,Mumbai,2026-04-19,Website,,anjali s,updated_anjali.sharma182@example.com,9000000182,mumbai,2,CUST_0190
+C01701,Pooja Sharma,pooja.sharma536@example.com,9000000536,Hyderabad,2025-06-22,CRM,,pooja sharma,pooja.sharma536@example.com,9000000536,hyderabad,2,CUST_0110
+C01703,Kiran Reddy,kiran.reddy1229@example.com,9000001229,Hyderabad,2025-09-24,Website,,kiran reddy,kiran.reddy1229@example.com,9000001229,hyderabad,2,CUST_0058
+C01704,Anjali S,updated_anjali.sharma182@example.com,9000000182,Mumbai,2026-01-12,Website,,anjali s,updated_anjali.sharma182@example.com,9000000182,mumbai,2,CUST_0190
+C01705,Narendra Singh,narendra.singh1161@example.com,9000001161,Chennai,2025-05-01,CRM,,narendra singh,narendra.singh1161@example.com,9000001161,chennai,2,CUST_0092
+C01707,Suresh Gupta,suresh.gupta1583@example.com,9000001583,Chennai,2026-04-10,ERP,,suresh gupta,suresh.gupta1583@example.com,9000001583,chennai,2,CUST_0168
+C01709,Suresh Verma,suresh.verma390@example.com,9000000390,Mumbai,2025-09-30,Mobile App,,suresh verma,suresh.verma390@example.com,9000000390,mumbai,2,CUST_0185
+C01711,Anjali Das,anjali.das266@example.com,9000000266,Chennai,2026-03-18,Website,,anjali das,anjali.das266@example.com,9000000266,chennai,2,CUST_0015
+C01713,Rahul Sharma,rahul.sharma1488@example.com,9000001488,Chennai,2025-07-13,ERP,,rahul sharma,rahul.sharma1488@example.com,9000001488,chennai,2,CUST_0140
+C01715,Meera Das,meera.das58@example.com,9000000058,Hyderabad,2025-10-25,Mobile App,,meera das,meera.das58@example.com,9000000058,hyderabad,2,CUST_0065
+C01717,Suresh Kumar,suresh.kumar508@example.com,9000000508,Chennai,2026-01-14,ERP,,suresh kumar,suresh.kumar508@example.com,9000000508,chennai,2,CUST_0172
+C01719,Meera Das,meera.das272@example.com,9000000272,Bangalore,2025-11-28,ERP,,meera das,meera.das272@example.com,9000000272,bangalore,2,CUST_0064
+C01721,Arjun Patel,arjun.patel1450@example.com,9000001450,Bangalore,2026-03-10,Mobile App,,arjun patel,arjun.patel1450@example.com,9000001450,bangalore,2,CUST_0029
+C01723,Priya Kumar,priya.kumar106@example.com,9000000106,Hyderabad,2025-12-07,Website,,priya kumar,priya.kumar106@example.com,9000000106,hyderabad,2,CUST_0118
+C01725,Rohan Rao,rohan.rao10@example.com,9000000010,Hyderabad,2025-09-17,ERP,,rohan rao,rohan.rao10@example.com,9000000010,hyderabad,2,CUST_0159
+C01727,Meera Reddy,meera.reddy270@example.com,9000000270,Hyderabad,2026-07-27,CRM,,meera reddy,meera.reddy270@example.com,9000000270,hyderabad,2,CUST_0077
+C01729,Pooja Rao,pooja.rao347@example.com,9000000347,Hyderabad,2026-05-31,ERP,,pooja rao,pooja.rao347@example.com,9000000347,hyderabad,2,CUST_0107
+C01730,Arjun S,updated_arjun.sharma694@example.com,9000000694,Mumbai,2026-04-25,Website,,arjun s,updated_arjun.sharma694@example.com,9000000694,mumbai,2,CUST_0191
+C01731,Sneha Das,sneha.das183@example.com,9000000183,Pune,2025-11-21,ERP,,sneha das,sneha.das183@example.com,9000000183,pune,2,CUST_0162
+C01733,Meera Kumar,meera.kumar641@example.com,9000000641,Hyderabad,2025-02-15,Website,,meera kumar,meera.kumar641@example.com,9000000641,hyderabad,2,CUST_0067
+C01735,Suresh Rao,suresh.rao880@example.com,9000000880,Chennai,2025-10-17,Mobile App,,suresh rao,suresh.rao880@example.com,9000000880,chennai,2,CUST_0179
+C01737,Amit Singh,amit.singh892@example.com,9000000892,Bangalore,2025-06-18,Mobile App,,amit singh,amit.singh892@example.com,9000000892,bangalore,2,CUST_0013
+C01738,Sneha K,updated_sneha.kumar1509@example.com,9000001509,Mumbai,2026-05-19,Website,,sneha k,updated_sneha.kumar1509@example.com,9000001509,mumbai,2,CUST_0195
+C01739,Kiran Kumar,kiran.kumar1138@example.com,9000001138,Chennai,2026-11-05,ERP,,kiran kumar,kiran.kumar1138@example.com,9000001138,chennai,2,CUST_0052
+C01741,Rohan Sharma,rohan.sharma111@example.com,9000000111,Mumbai,2025-08-24,Website,,rohan sharma,rohan.sharma111@example.com,9000000111,mumbai,2,CUST_0161
+C01743,Amit Reddy,amit.reddy334@example.com,9000000334,Chennai,2026-04-24,ERP,,amit reddy,amit.reddy334@example.com,9000000334,chennai,2,CUST_0008
+C01745,Pooja Verma,pooja.verma904@example.com,9000000904,Pune,2026-01-01,ERP,,pooja verma,pooja.verma904@example.com,9000000904,pune,2,CUST_0116
+C01747,Pooja Sharma,pooja.sharma1474@example.com,9000001474,Mumbai,2025-06-01,CRM,,pooja sharma,pooja.sharma1474@example.com,9000001474,mumbai,2,CUST_0109
+C01749,Kiran Reddy,kiran.reddy581@example.com,9000000581,Mumbai,2025-07-04,Website,,kiran reddy,kiran.reddy581@example.com,9000000581,mumbai,2,CUST_0059
+C01751,Meera Singh,meera.singh1153@example.com,9000001153,Pune,2026-11-11,Website,,meera singh,meera.singh1153@example.com,9000001153,pune,2,CUST_0081
+C01753,Anjali Das,anjali.das852@example.com,9000000852,Pune,2025-03-20,Website,,anjali das,anjali.das852@example.com,9000000852,pune,2,CUST_0017
+C01755,Ravi Das,ravi.das673@example.com,9000000673,Mumbai,2025-01-27,Mobile App,,ravi das,ravi.das673@example.com,9000000673,mumbai,2,CUST_0145
+C01757,Narendra Singh,narendra.singh765@example.com,9000000765,Bangalore,2026-08-28,CRM,,narendra singh,narendra.singh765@example.com,9000000765,bangalore,2,CUST_0093
+C01759,Meera Verma,meera.verma166@example.com,9000000166,Mumbai,2026-04-17,ERP,,meera verma,meera.verma166@example.com,9000000166,mumbai,2,CUST_0084
+C01761,Narendra Patel,narendra.patel1216@example.com,9000001216,Pune,2026-11-05,CRM,,narendra patel,narendra.patel1216@example.com,9000001216,pune,3,CUST_0086
+C01762,Rahul D,updated_rahul.das674@example.com,9000000674,Pune,2025-02-14,ERP,,rahul d,updated_rahul.das674@example.com,9000000674,pune,2,CUST_0194
+C01763,Suresh Kumar,suresh.kumar665@example.com,9000000665,Bangalore,2026-08-06,Website,,suresh kumar,suresh.kumar665@example.com,9000000665,bangalore,2,CUST_0173
+C01765,Pooja Patel,pooja.patel661@example.com,9000000661,Hyderabad,2025-02-26,CRM,,pooja patel,pooja.patel661@example.com,9000000661,hyderabad,2,CUST_0105
+C01767,Ravi Gupta,ravi.gupta189@example.com,9000000189,Hyderabad,2026-02-13,Mobile App,,ravi gupta,ravi.gupta189@example.com,9000000189,hyderabad,2,CUST_0146
+C01769,Anjali Sharma,anjali.sharma182@example.com,9000000182,Mumbai,2025-01-22,Website,,anjali sharma,anjali.sharma182@example.com,9000000182,mumbai,2,CUST_0025
+C01771,Arjun Verma,arjun.verma583@example.com,9000000583,Mumbai,2026-10-25,Website,,arjun verma,arjun.verma583@example.com,9000000583,mumbai,2,CUST_0035
+C01773,Rohan Rao,rohan.rao885@example.com,9000000885,Mumbai,2025-11-14,Website,,rohan rao,rohan.rao885@example.com,9000000885,mumbai,2,CUST_0160
+C01775,Kiran Verma,kiran.verma1049@example.com,9000001049,Chennai,2025-07-24,ERP,,kiran verma,kiran.verma1049@example.com,9000001049,chennai,2,CUST_0062
+C01777,Ravi Kumar,ravi.kumar549@example.com,9000000549,Chennai,2026-07-31,ERP,,ravi kumar,ravi.kumar549@example.com,9000000549,chennai,2,CUST_0147
+C01779,Meera Reddy,meera.reddy1257@example.com,9000001257,Chennai,2025-07-10,ERP,,meera reddy,meera.reddy1257@example.com,9000001257,chennai,2,CUST_0076
+C01781,Amit Patel,amit.patel82@example.com,9000000082,Hyderabad,2026-06-10,Mobile App,,amit patel,amit.patel82@example.com,9000000082,hyderabad,3,CUST_0007
+C01783,Meera Reddy,meera.reddy1014@example.com,9000001014,Pune,2026-06-24,CRM,,meera reddy,meera.reddy1014@example.com,9000001014,pune,2,CUST_0074
+C01785,Rahul Patel,rahul.patel162@example.com,9000000162,Bangalore,2026-05-05,Mobile App,,rahul patel,rahul.patel162@example.com,9000000162,bangalore,2,CUST_0135
+C01787,Amit Nair,amit.nair509@example.com,9000000509,Bangalore,2026-06-20,ERP,,amit nair,amit.nair509@example.com,9000000509,bangalore,2,CUST_0006
+C01789,Divya Kumar,divya.kumar1128@example.com,9000001128,Bangalore,2025-03-20,CRM,,divya kumar,divya.kumar1128@example.com,9000001128,bangalore,2,CUST_0038
+C01791,Meera Reddy,meera.reddy845@example.com,9000000845,Mumbai,2025-04-07,ERP,,meera reddy,meera.reddy845@example.com,9000000845,mumbai,2,CUST_0078
+C01792,Anjali D,updated_anjali.das1353@example.com,9000001353,Mumbai,2026-08-06,Mobile App,,anjali d,updated_anjali.das1353@example.com,9000001353,mumbai,2,CUST_0188
+C01793,Amit Reddy,amit.reddy727@example.com,9000000727,Bangalore,2025-09-18,CRM,,amit reddy,amit.reddy727@example.com,9000000727,bangalore,2,CUST_0009
+C01795,Pooja Verma,pooja.verma233@example.com,9000000233,Chennai,2026-11-09,ERP,,pooja verma,pooja.verma233@example.com,9000000233,chennai,2,CUST_0114
+C01797,Narendra Sharma,narendra.sharma92@example.com,9000000092,Pune,2025-03-27,ERP,,narendra sharma,narendra.sharma92@example.com,9000000092,pune,2,CUST_0091
+C01799,Meera Reddy,meera.reddy1202@example.com,9000001202,Mumbai,2026-04-11,ERP,,meera reddy,meera.reddy1202@example.com,9000001202,mumbai,2,CUST_0075
+C01801,Pooja Nair,pooja.nair383@example.com,9000000383,Mumbai,2025-08-05,Website,,pooja nair,pooja.nair383@example.com,9000000383,mumbai,2,CUST_0102
+C01803,Divya Das,divya.das1379@example.com,9000001379,Chennai,2025-04-19,ERP,,divya das,divya.das1379@example.com,9000001379,chennai,2,CUST_0036
+C01805,Priya Patel,priya.patel808@example.com,9000000808,Chennai,2025-04-30,CRM,,priya patel,priya.patel808@example.com,9000000808,chennai,2,CUST_0121
+C01807,Vijay Das,vijay.das942@example.com,9000000942,Mumbai,2026-02-19,ERP,,vijay das,vijay.das942@example.com,9000000942,mumbai,2,CUST_0199
+C01809,Divya Patel,divya.patel1414@example.com,9000001414,Chennai,2026-02-09,Mobile App,,divya patel,divya.patel1414@example.com,9000001414,chennai,3,CUST_0041
+C01811,Vijay Kumar,vijay.kumar28@example.com,9000000028,Hyderabad,2025-07-15,CRM,,vijay kumar,vijay.kumar28@example.com,9000000028,hyderabad,2,CUST_0200
+C01813,Divya Singh,divya.singh428@example.com,9000000428,Mumbai,2026-05-08,Website,,divya singh,divya.singh428@example.com,9000000428,mumbai,2,CUST_0049
+C01815,Narendra Patel,narendra.patel1282@example.com,9000001282,Bangalore,2026-07-06,Website,,narendra patel,narendra.patel1282@example.com,9000001282,bangalore,2,CUST_0087
+C01817,Meera Rao,meera.rao303@example.com,9000000303,Mumbai,2026-05-01,ERP,,meera rao,meera.rao303@example.com,9000000303,mumbai,2,CUST_0072
+C01819,Suresh Sharma,suresh.sharma312@example.com,9000000312,Chennai,2026-04-01,ERP,,suresh sharma,suresh.sharma312@example.com,9000000312,chennai,2,CUST_0183
+C01821,Rahul Verma,rahul.verma1198@example.com,9000001198,Mumbai,2025-09-06,Website,,rahul verma,rahul.verma1198@example.com,9000001198,mumbai,2,CUST_0141
+C01823,Suresh Reddy,suresh.reddy104@example.com,9000000104,Hyderabad,2025-12-08,CRM,,suresh reddy,suresh.reddy104@example.com,9000000104,hyderabad,2,CUST_0180
+C01825,Priya Sharma,priya.sharma851@example.com,9000000851,Hyderabad,2026-05-23,Mobile App,,priya sharma,priya.sharma851@example.com,9000000851,hyderabad,2,CUST_0129
+C01827,Kiran Patel,kiran.patel995@example.com,9000000995,Hyderabad,2026-06-10,ERP,,kiran patel,kiran.patel995@example.com,9000000995,hyderabad,2,CUST_0057
+C01829,Vijay Nair,vijay.nair864@example.com,9000000864,Hyderabad,2026-08-14,Mobile App,,vijay nair,vijay.nair864@example.com,9000000864,hyderabad,2,CUST_0201
+C01831,Meera Rao,meera.rao1327@example.com,9000001327,Chennai,2026-03-04,ERP,,meera rao,meera.rao1327@example.com,9000001327,chennai,2,CUST_0070
+C01833,Divya Das,divya.das918@example.com,9000000918,Chennai,2026-03-23,CRM,,divya das,divya.das918@example.com,9000000918,chennai,2,CUST_0037
+C01835,Rohan Das,rohan.das961@example.com,9000000961,Hyderabad,2025-12-19,ERP,,rohan das,rohan.das961@example.com,9000000961,hyderabad,2,CUST_0153
+C01837,Amit Singh,amit.singh1203@example.com,9000001203,Chennai,2025-12-14,ERP,,amit singh,amit.singh1203@example.com,9000001203,chennai,2,CUST_0011
+C01839,Arjun Reddy,arjun.reddy853@example.com,9000000853,Bangalore,2026-10-31,Mobile App,,arjun reddy,arjun.reddy853@example.com,9000000853,bangalore,2,CUST_0031
+C01841,Arjun Singh,arjun.singh578@example.com,9000000578,Pune,2025-03-30,ERP,,arjun singh,arjun.singh578@example.com,9000000578,pune,2,CUST_0033
+C01843,Rohan Nair,rohan.nair320@example.com,9000000320,Chennai,2026-09-13,ERP,,rohan nair,rohan.nair320@example.com,9000000320,chennai,2,CUST_0155
+C01845,Arjun Gupta,arjun.gupta621@example.com,9000000621,Mumbai,2025-08-29,Website,,arjun gupta,arjun.gupta621@example.com,9000000621,mumbai,2,CUST_0027
+C01847,Sneha Reddy,sneha.reddy734@example.com,9000000734,Hyderabad,2025-09-25,Mobile App,,sneha reddy,sneha.reddy734@example.com,9000000734,hyderabad,2,CUST_0167
+C01849,Meera Verma,meera.verma1031@example.com,9000001031,Mumbai,2025-02-02,CRM,,meera verma,meera.verma1031@example.com,9000001031,mumbai,2,CUST_0083
+C01851,Amit Das,amit.das1264@example.com,9000001264,Bangalore,2025-08-21,CRM,,amit das,amit.das1264@example.com,9000001264,bangalore,2,CUST_0002
+C01853,Suresh Singh,suresh.singh528@example.com,9000000528,Chennai,2025-12-15,Mobile App,,suresh singh,suresh.singh528@example.com,9000000528,chennai,2,CUST_0184
+C01855,Vijay Das,vijay.das309@example.com,9000000309,Chennai,2026-06-12,CRM,,vijay das,vijay.das309@example.com,9000000309,chennai,2,CUST_0198
+C01857,Priya Reddy,priya.reddy936@example.com,9000000936,Pune,2025-04-24,CRM,,priya reddy,priya.reddy936@example.com,9000000936,pune,2,CUST_0126
+C01859,Pooja Verma,pooja.verma1151@example.com,9000001151,Pune,2025-02-12,CRM,,pooja verma,pooja.verma1151@example.com,9000001151,pune,2,CUST_0113
+C01861,Sneha Rao,sneha.rao420@example.com,9000000420,Pune,2026-01-06,Website,,sneha rao,sneha.rao420@example.com,9000000420,pune,2,CUST_0165
+C01863,Rohan Das,rohan.das1560@example.com,9000001560,Hyderabad,2026-06-03,ERP,,rohan das,rohan.das1560@example.com,9000001560,hyderabad,3,CUST_0151
+C01865,Arjun Sharma,arjun.sharma1325@example.com,9000001325,Bangalore,2026-01-08,Mobile App,,arjun sharma,arjun.sharma1325@example.com,9000001325,bangalore,2,CUST_0032
+C01867,Rohan Das,rohan.das899@example.com,9000000899,Pune,2026-03-02,CRM,,rohan das,rohan.das899@example.com,9000000899,pune,2,CUST_0152
+C01868,Pooja P,updated_pooja.patel502@example.com,9000000502,Chennai,2026-05-01,Mobile App,,pooja p,updated_pooja.patel502@example.com,9000000502,chennai,2,CUST_0193
+C01869,Priya Verma,priya.verma587@example.com,9000000587,Chennai,2026-06-02,Website,,priya verma,priya.verma587@example.com,9000000587,chennai,2,CUST_0131
+C01871,Arjun Nair,arjun.nair1464@example.com,9000001464,Chennai,2026-03-01,Mobile App,,arjun nair,arjun.nair1464@example.com,9000001464,chennai,2,CUST_0028
+C01873,Divya Reddy,divya.reddy310@example.com,9000000310,Chennai,2026-06-27,ERP,,divya reddy,divya.reddy310@example.com,9000000310,chennai,2,CUST_0045
+C01875,Meera Rao,meera.rao846@example.com,9000000846,Mumbai,2026-02-24,ERP,,meera rao,meera.rao846@example.com,9000000846,mumbai,2,CUST_0073
+C01877,Priya Rao,priya.rao906@example.com,9000000906,Hyderabad,2025-05-30,CRM,,priya rao,priya.rao906@example.com,9000000906,hyderabad,2,CUST_0123
+C01879,Sneha Nair,sneha.nair173@example.com,9000000173,Pune,2025-12-13,Mobile App,,sneha nair,sneha.nair173@example.com,9000000173,pune,2,CUST_0164
+C01881,Anjali Patel,anjali.patel125@example.com,9000000125,Bangalore,2026-02-07,CRM,,anjali patel,anjali.patel125@example.com,9000000125,bangalore,2,CUST_0020
+C01883,Anjali Rao,anjali.rao1176@example.com,9000001176,Hyderabad,2025-03-01,Mobile App,,anjali rao,anjali.rao1176@example.com,9000001176,hyderabad,2,CUST_0022
+C01885,Vijay Singh,vijay.singh1477@example.com,9000001477,Hyderabad,2025-11-18,Mobile App,,vijay singh,vijay.singh1477@example.com,9000001477,hyderabad,2,CUST_0203
+C01887,Priya Sharma,priya.sharma1434@example.com,9000001434,Pune,2026-02-18,ERP,,priya sharma,priya.sharma1434@example.com,9000001434,pune,2,CUST_0128
+C01889,Kiran Patel,kiran.patel1428@example.com,9000001428,Hyderabad,2025-12-20,ERP,,kiran patel,kiran.patel1428@example.com,9000001428,hyderabad,2,CUST_0056
+C01891,Anjali Gupta,anjali.gupta172@example.com,9000000172,Bangalore,2025-02-07,Mobile App,,anjali gupta,anjali.gupta172@example.com,9000000172,bangalore,2,CUST_0018
+C01893,Rohan Nair,rohan.nair437@example.com,9000000437,Bangalore,2025-04-06,Mobile App,,rohan nair,rohan.nair437@example.com,9000000437,bangalore,2,CUST_0156
+C01895,Rahul Rao,rahul.rao47@example.com,9000000047,Bangalore,2025-01-29,Mobile App,,rahul rao,rahul.rao47@example.com,9000000047,bangalore,2,CUST_0136
+C01897,Meera Singh,meera.singh1034@example.com,9000001034,Mumbai,2025-04-24,CRM,,meera singh,meera.singh1034@example.com,9000001034,mumbai,2,CUST_0080
+C01899,Amit Singh,amit.singh253@example.com,9000000253,Hyderabad,2025-02-18,CRM,,amit singh,amit.singh253@example.com,9000000253,hyderabad,2,CUST_0012
+C01901,Amit Das,amit.das928@example.com,9000000928,Bangalore,2025-12-14,Website,,amit das,amit.das928@example.com,9000000928,bangalore,2,CUST_0004
+C01903,Sneha Reddy,sneha.reddy717@example.com,9000000717,Hyderabad,2025-11-03,Mobile App,,sneha reddy,sneha.reddy717@example.com,9000000717,hyderabad,2,CUST_0166
+C01905,Meera Gupta,meera.gupta1462@example.com,9000001462,Mumbai,2026-01-22,Website,,meera gupta,meera.gupta1462@example.com,9000001462,mumbai,2,CUST_0066
+C01907,Meera Singh,meera.singh1594@example.com,9000001594,Bangalore,2026-01-05,ERP,,meera singh,meera.singh1594@example.com,9000001594,bangalore,2,CUST_0082
+C01909,Kiran Reddy,kiran.reddy843@example.com,9000000843,Bangalore,2025-03-25,CRM,,kiran reddy,kiran.reddy843@example.com,9000000843,bangalore,2,CUST_0061
+C01911,Rohan Patel,rohan.patel975@example.com,9000000975,Bangalore,2025-08-08,ERP,,rohan patel,rohan.patel975@example.com,9000000975,bangalore,2,CUST_0158
+C01913,Divya Kumar,divya.kumar1204@example.com,9000001204,Chennai,2026-07-27,ERP,,divya kumar,divya.kumar1204@example.com,9000001204,chennai,3,CUST_0039
+C01915,Narendra Verma,narendra.verma1303@example.com,9000001303,Hyderabad,2026-03-10,ERP,,narendra verma,narendra.verma1303@example.com,9000001303,hyderabad,2,CUST_0095
+C01917,Priya Patel,priya.patel333@example.com,9000000333,Bangalore,2025-05-28,Website,,priya patel,priya.patel333@example.com,9000000333,bangalore,2,CUST_0120
+C01919,Suresh Patel,suresh.patel1442@example.com,9000001442,Bangalore,2026-06-10,CRM,,suresh patel,suresh.patel1442@example.com,9000001442,bangalore,2,CUST_0175
+C01921,Priya Reddy,priya.reddy969@example.com,9000000969,Chennai,2025-02-03,Website,,priya reddy,priya.reddy969@example.com,9000000969,chennai,2,CUST_0127
+C01923,Narendra Nair,narendra.nair1232@example.com,9000001232,Pune,2026-02-23,CRM,,narendra nair,narendra.nair1232@example.com,9000001232,pune,2,CUST_0085
+C01925,Amit Patel,amit.patel82@example.com,9000000082,Hyderabad,2026-06-20,Website,,amit patel,amit.patel82@example.com,9000000082,hyderabad,3,CUST_0007
+C01927,Kiran Reddy,kiran.reddy766@example.com,9000000766,Mumbai,2025-11-07,Mobile App,,kiran reddy,kiran.reddy766@example.com,9000000766,mumbai,2,CUST_0060
+C01929,Rohan Kumar,rohan.kumar291@example.com,9000000291,Chennai,2026-08-27,ERP,,rohan kumar,rohan.kumar291@example.com,9000000291,chennai,2,CUST_0154
+C01931,Suresh Kumar,suresh.kumar441@example.com,9000000441,Pune,2025-07-07,ERP,,suresh kumar,suresh.kumar441@example.com,9000000441,pune,2,CUST_0171
+C01933,Suresh Reddy,suresh.reddy138@example.com,9000000138,Bangalore,2025-02-15,ERP,,suresh reddy,suresh.reddy138@example.com,9000000138,bangalore,2,CUST_0181
+C01935,Pooja Kumar,pooja.kumar1158@example.com,9000001158,Chennai,2026-04-09,Mobile App,,pooja kumar,pooja.kumar1158@example.com,9000001158,chennai,2,CUST_0099
+C01937,Rohan Das,rohan.das1560@example.com,9000001560,Hyderabad,2025-05-22,ERP,,rohan das,rohan.das1560@example.com,9000001560,hyderabad,3,CUST_0151
+C01939,Pooja Singh,pooja.singh305@example.com,9000000305,Hyderabad,2025-11-30,CRM,,pooja singh,pooja.singh305@example.com,9000000305,hyderabad,2,CUST_0112
+C01940,Divya V,updated_divya.verma1279@example.com,9000001279,Chennai,2026-11-12,ERP,,divya v,updated_divya.verma1279@example.com,9000001279,chennai,2,CUST_0192
+C01941,Rahul Rao,rahul.rao793@example.com,9000000793,Chennai,2025-08-27,ERP,,rahul rao,rahul.rao793@example.com,9000000793,chennai,2,CUST_0137
+C01942,Arjun S,updated_arjun.sharma694@example.com,9000000694,Mumbai,2026-07-08,CRM,,arjun s,updated_arjun.sharma694@example.com,9000000694,mumbai,2,CUST_0191
+C01943,Priya Das,priya.das1373@example.com,9000001373,Hyderabad,2026-03-30,Mobile App,,priya das,priya.das1373@example.com,9000001373,hyderabad,2,CUST_0117
+C01945,Anjali Das,anjali.das1448@example.com,9000001448,Hyderabad,2025-01-26,Mobile App,,anjali das,anjali.das1448@example.com,9000001448,hyderabad,2,CUST_0014
+C01947,Rahul Gupta,rahul.gupta1318@example.com,9000001318,Hyderabad,2026-07-27,CRM,,rahul gupta,rahul.gupta1318@example.com,9000001318,hyderabad,2,CUST_0134
+C01949,Vijay Rao,vijay.rao1167@example.com,9000001167,Chennai,2026-06-19,Website,,vijay rao,vijay.rao1167@example.com,9000001167,chennai,2,CUST_0202
+C01951,Ravi Sharma,ravi.sharma246@example.com,9000000246,Mumbai,2026-11-06,Website,,ravi sharma,ravi.sharma246@example.com,9000000246,mumbai,2,CUST_0149
+C01952,Vijay N,updated_vijay.nair38@example.com,9000000038,Mumbai,2025-10-09,Website,,vijay n,updated_vijay.nair38@example.com,9000000038,mumbai,3,CUST_0196
+C01953,Pooja Patel,pooja.patel502@example.com,9000000502,Chennai,2026-08-17,ERP,,pooja patel,pooja.patel502@example.com,9000000502,chennai,3,CUST_0104
+C01955,Meera Sharma,meera.sharma822@example.com,9000000822,Hyderabad,2026-08-27,CRM,,meera sharma,meera.sharma822@example.com,9000000822,hyderabad,2,CUST_0079
+C01957,Pooja Gupta,pooja.gupta895@example.com,9000000895,Mumbai,2025-07-04,ERP,,pooja gupta,pooja.gupta895@example.com,9000000895,mumbai,2,CUST_0098
+C01959,Suresh Nair,suresh.nair782@example.com,9000000782,Chennai,2025-09-21,CRM,,suresh nair,suresh.nair782@example.com,9000000782,chennai,2,CUST_0174
+C01960,Amit P,updated_amit.patel234@example.com,9000000234,Pune,2025-04-12,Website,,amit p,updated_amit.patel234@example.com,9000000234,pune,2,CUST_0186
+C01961,Rohan Nair,rohan.nair584@example.com,9000000584,Chennai,2025-05-28,Website,,rohan nair,rohan.nair584@example.com,9000000584,chennai,2,CUST_0157
+C01962,Amit P,updated_amit.patel523@example.com,9000000523,Hyderabad,2025-04-02,Website,,amit p,updated_amit.patel523@example.com,9000000523,hyderabad,2,CUST_0187
+C01963,Anjali Verma,anjali.verma628@example.com,9000000628,Bangalore,2026-02-22,Website,,anjali verma,anjali.verma628@example.com,9000000628,bangalore,2,CUST_0026
+C01965,Pooja Kumar,pooja.kumar371@example.com,9000000371,Bangalore,2025-01-28,CRM,,pooja kumar,pooja.kumar371@example.com,9000000371,bangalore,2,CUST_0100
+C01967,Divya Reddy,divya.reddy655@example.com,9000000655,Mumbai,2025-05-26,ERP,,divya reddy,divya.reddy655@example.com,9000000655,mumbai,2,CUST_0047
+C01969,Rahul Reddy,rahul.reddy247@example.com,9000000247,Hyderabad,2025-02-23,Website,,rahul reddy,rahul.reddy247@example.com,9000000247,hyderabad,2,CUST_0138
+C01971,Ravi Das,ravi.das1009@example.com,9000001009,Hyderabad,2026-06-05,ERP,,ravi das,ravi.das1009@example.com,9000001009,hyderabad,2,CUST_0142
+C01973,Divya Patel,divya.patel651@example.com,9000000651,Mumbai,2026-04-21,ERP,,divya patel,divya.patel651@example.com,9000000651,mumbai,2,CUST_0042
+C01975,Anjali Reddy,anjali.reddy834@example.com,9000000834,Bangalore,2026-10-11,Website,,anjali reddy,anjali.reddy834@example.com,9000000834,bangalore,2,CUST_0024
+C01976,Vijay N,updated_vijay.nair38@example.com,9000000038,Mumbai,2025-10-03,CRM,,vijay n,updated_vijay.nair38@example.com,9000000038,mumbai,3,CUST_0196
+C01977,Suresh Rao,suresh.rao504@example.com,9000000504,Pune,2026-07-23,Website,,suresh rao,suresh.rao504@example.com,9000000504,pune,2,CUST_0178
+C01979,Divya Nair,divya.nair913@example.com,9000000913,Chennai,2025-03-27,Website,,divya nair,divya.nair913@example.com,9000000913,chennai,2,CUST_0040
+C01981,Pooja Patel,pooja.patel502@example.com,9000000502,Chennai,2026-07-05,ERP,,pooja patel,pooja.patel502@example.com,9000000502,chennai,3,CUST_0104
+C01983,Meera Rao,meera.rao2@example.com,9000000002,Hyderabad,2026-04-21,Mobile App,,meera rao,meera.rao2@example.com,9000000002,hyderabad,2,CUST_0071
+C01985,Pooja Nair,pooja.nair123@example.com,9000000123,Mumbai,2026-05-09,Mobile App,,pooja nair,pooja.nair123@example.com,9000000123,mumbai,2,CUST_0101
+C01987,Rahul Reddy,rahul.reddy719@example.com,9000000719,Hyderabad,2026-10-10,Website,,rahul reddy,rahul.reddy719@example.com,9000000719,hyderabad,2,CUST_0139
+C01989,Divya Singh,divya.singh93@example.com,9000000093,Mumbai,2025-06-15,CRM,,divya singh,divya.singh93@example.com,9000000093,mumbai,2,CUST_0051
+C01991,Suresh Rao,suresh.rao1430@example.com,9000001430,Chennai,2025-05-06,Website,,suresh rao,suresh.rao1430@example.com,9000001430,chennai,2,CUST_0177
+C01993,Pooja Reddy,pooja.reddy884@example.com,9000000884,Mumbai,2025-08-04,Mobile App,,pooja reddy,pooja.reddy884@example.com,9000000884,mumbai,2,CUST_0108
+C01995,Narendra Reddy,narendra.reddy1541@example.com,9000001541,Pune,2026-04-09,Mobile App,,narendra reddy,narendra.reddy1541@example.com,9000001541,pune,2,CUST_0090
+C01997,Priya Kumar,priya.kumar699@example.com,9000000699,Mumbai,2025-08-04,ERP,,priya kumar,priya.kumar699@example.com,9000000699,mumbai,2,CUST_0119
+C01999,Rahul Das,rahul.das1416@example.com,9000001416,Bangalore,2025-05-17,CRM,,rahul das,rahul.das1416@example.com,9000001416,bangalore,2,CUST_0133
