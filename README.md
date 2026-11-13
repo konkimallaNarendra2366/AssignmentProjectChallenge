@@ -467,10 +467,9 @@ Check the generated CSV files in the `output/` directory and inspect:
 
 The repository contains the project source code, tests, sample data, generated output files, dependencies, and project documentation.
 
-## 17. Submission Verification Checklist
 
 
-## 18. Conclusion
+## 17. Conclusion
 
 SmartDedup demonstrates a modular data engineering solution for customer and product deduplication.
 
