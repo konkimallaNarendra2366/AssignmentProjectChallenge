@@ -174,8 +174,39 @@ def main():
     start_time = utc_now_iso()
     cfg.output_dir.mkdir(parents=True, exist_ok=True)
     print(f"Starting {cfg.run_id} at {start_time}")
+
+
+
+
+
+    from src.config import load_config, utc_now_iso
+from src.run_summary import write_run_summary
+
+def main():
+    cfg = load_config()
+    start_time = utc_now_iso()
+    cfg.output_dir.mkdir(parents=True, exist_ok=True)
+    logger = get_logger(cfg.output_dir / "pipeline.log", cfg.run_id)
+
+    metrics = {"customers": {}, "products": {}}
+    status, failure_reason = "SUCCESS", ""
+
+    try:
+        logger.info("Run started")
+        logger.info("Run finished successfully")
+    except Exception as exc:
+        status = "FAILED"
+        failure_reason = f"{type(exc).__name__}: {exc}"
+        logger.exception("Run failed")
+        raise
+    finally:
+        write_run_summary(cfg.output_dir / "run_summary.csv", cfg.run_id,
+                          start_time, utc_now_iso(), status, failure_reason, metrics)
+
+    
     # Step 10: Final output validation
     validate_outputs(BASE_DIR / "output")
+
 
 
 if __name__ == "__main__":
