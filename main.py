@@ -46,6 +46,7 @@ from src.data_quality import (
 
 
 from src.reconciliation import run_reconciliation
+from src.config import load_config, utc_now_iso
 
 from src.pipeline_logger import setup_logger
 BASE_DIR = Path(__file__).resolve().parent
@@ -166,7 +167,16 @@ def main():
     logger = setup_logger(BASE_DIR / "output")
 
     logger.info("SMARTDEDUP DATA PIPELINE STARTED")
+
+
+    def main():
+    cfg = load_config()
+    start_time = utc_now_iso()
+    cfg.output_dir.mkdir(parents=True, exist_ok=True)
+    print(f"Starting {cfg.run_id} at {start_time}")
     # Step 10: Final output validation
     validate_outputs(BASE_DIR / "output")
+
+
 if __name__ == "__main__":
     main()
