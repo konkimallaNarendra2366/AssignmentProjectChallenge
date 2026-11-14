@@ -25,7 +25,7 @@ python main.py                  # run the pipeline, results go to output/
 python -m pytest tests -v       # run automated tests
 ```
 
-> The generator file is currently named `genratedata.py`. If you rename it, update the command above.
+
 
 ---
 
@@ -83,7 +83,6 @@ data/customers.csv, data/products.csv
   output/*.csv  +  output/pipeline.log
 ```
 
-Each stage is its own module in `src/`, and `main.py` orchestrates them.
 
 ---
 
@@ -109,7 +108,7 @@ AssignmentProjectChallenge/
 
 ## 5. Data dictionary
 
-> Field lists below describe the main columns. The CSV headers in `data/` are the source of truth for the full schema.
+
 
 ### 5.1 Input: `customers.csv`
 
